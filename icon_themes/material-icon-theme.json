@@ -5,6 +5,10 @@
     {
       "name": "Material Icon Theme",
       "appearance": "dark",
+      "directory_icons": {
+        "collapsed": "./icons/folder-base.svg",
+        "expanded": "./icons/folder-base-open.svg"
+      },
       "file_icons": {
         "astro": { "path": "./icons/astro.svg" },
         "audio": { "path": "./icons/audio.svg" },
