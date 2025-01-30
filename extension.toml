@@ -1,0 +1,7 @@
+id = "material-icon-theme"
+name = "Material Icon Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["Zed Industries <support@zed.dev>"]
+description = "Material Design icons."
+repository = "https://github.com/zed-extensions/material-icon-theme"
