@@ -1,4 +1,5 @@
 {
+  "$schema": "https://zed.dev/schema/icon_themes/v0.1.0.json",
   "name": "Material Icon Theme",
   "author": "Zed Industries",
   "themes": [
