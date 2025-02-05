@@ -7,8 +7,8 @@
       "name": "Material Icon Theme",
       "appearance": "dark",
       "directory_icons": {
-        "collapsed": "./icons/folder-base.svg",
-        "expanded": "./icons/folder-base-open.svg"
+        "collapsed": "./icons/folder.svg",
+        "expanded": "./icons/folder-open.svg"
       },
       "file_icons": {
         "astro": { "path": "./icons/astro.svg" },
@@ -20,7 +20,7 @@
         "cpp": { "path": "./icons/cpp.svg" },
         "css": { "path": "./icons/css.svg" },
         "dart": { "path": "./icons/dart.svg" },
-        "default": { "path": "./icons/document.svg" },
+        "default": { "path": "./icons/file.svg" },
         "diff": { "path": "./icons/diff.svg" },
         "docker": { "path": "./icons/docker.svg" },
         "document": { "path": "./icons/document.svg" },
