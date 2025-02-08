@@ -39,6 +39,7 @@
         "image": { "path": "./icons/image.svg" },
         "java": { "path": "./icons/java.svg" },
         "javascript": { "path": "./icons/javascript.svg" },
+        "json": { "path": "./icons/json.svg" },
         "julia": { "path": "./icons/julia.svg" },
         "kotlin": { "path": "./icons/kotlin.svg" },
         "lock": { "path": "./icons/lock.svg" },
