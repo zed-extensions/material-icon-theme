@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/icon_themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/icon_themes/v0.2.0.json",
   "name": "Material Icon Theme",
   "author": "Zed Industries",
   "themes": [
@@ -10,7 +10,12 @@
         "collapsed": "./icons/folder.svg",
         "expanded": "./icons/folder-open.svg"
       },
+      "file_suffixes": {
+        "as": "actionscript",
+        "swf": "flash"
+      },
       "file_icons": {
+        "actionscript": { "path": "./icons/actionscript.svg" },
         "astro": { "path": "./icons/astro.svg" },
         "audio": { "path": "./icons/audio.svg" },
         "bun": { "path": "./icons/bun.svg" },
@@ -28,6 +33,7 @@
         "elm": { "path": "./icons/elm.svg" },
         "erlang": { "path": "./icons/erlang.svg" },
         "eslint": { "path": "./icons/eslint.svg" },
+        "flash": { "path": "./icons/flash.svg" },
         "font": { "path": "./icons/font.svg" },
         "fsharp": { "path": "./icons/fsharp.svg" },
         "gleam": { "path": "./icons/gleam.svg" },
