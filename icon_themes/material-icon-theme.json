@@ -18,6 +18,7 @@
         "actionscript": { "path": "./icons/actionscript.svg" },
         "astro": { "path": "./icons/astro.svg" },
         "audio": { "path": "./icons/audio.svg" },
+        "bicep": { "path": "./icons/bicep.svg" },
         "bun": { "path": "./icons/bun.svg" },
         "c": { "path": "./icons/c.svg" },
         "code": { "path": "./icons/json.svg" },
