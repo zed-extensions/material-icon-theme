@@ -68,6 +68,7 @@
         "settings": { "path": "./icons/settings.svg" },
         "storage": { "path": "./icons/database.svg" },
         "swift": { "path": "./icons/swift.svg" },
+        "svelte": { "path": "./icons/svelte.svg" },
         "tcl": { "path": "./icons/tcl.svg" },
         "template": { "path": "./icons/templ.svg" },
         "terminal": { "path": "./icons/console.svg" },
