@@ -65,6 +65,7 @@
         "sass": { "path": "./icons/sass.svg" },
         "scala": { "path": "./icons/scala.svg" },
         "settings": { "path": "./icons/settings.svg" },
+        "solidity": { "path": "./icons/solidity.svg" },
         "storage": { "path": "./icons/database.svg" },
         "swift": { "path": "./icons/swift.svg" },
         "tcl": { "path": "./icons/tcl.svg" },
