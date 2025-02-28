@@ -36,6 +36,7 @@
         "flash": { "path": "./icons/flash.svg" },
         "font": { "path": "./icons/font.svg" },
         "fsharp": { "path": "./icons/fsharp.svg" },
+        "gitlab-ci": { "path": "./icons/gitlab-ci.svg" },
         "gleam": { "path": "./icons/gleam.svg" },
         "go": { "path": "./icons/go.svg" },
         "graphql": { "path": "./icons/graphql.svg" },
