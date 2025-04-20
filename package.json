@@ -1,0 +1,13 @@
+{
+  "name": "material-icon-theme",
+  "version": "1.0.0",
+  "description": "Material Design Icons for Zed",
+  "scripts": {
+    "build": "ts-node src/build.ts"
+  },
+  "devDependencies": {
+    "material-icon-theme": "^5.21.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
