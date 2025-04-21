@@ -20,10 +20,10 @@ export const getTheme = (manifest: Manifest): IconTheme => {
         {
           path: value.iconPath.replace(
             "./../icons/",
-            "./node_modules/material-icon-theme/icons/"
+            "./node_modules/material-icon-theme/icons/",
           ),
         },
-      ])
+      ]),
   );
 
   /**
@@ -36,7 +36,7 @@ export const getTheme = (manifest: Manifest): IconTheme => {
       acc[key.toUpperCase()] = value;
       return acc;
     },
-    {} as { [key: string]: string }
+    {} as { [key: string]: string },
   );
 
   return {

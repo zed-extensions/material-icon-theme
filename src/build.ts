@@ -15,5 +15,5 @@ const zedManifest = {
 
 writeFileSync(
   join(__dirname, "../icon_themes", "material-icon-theme.json"),
-  JSON.stringify(zedManifest, null, 2)
+  JSON.stringify(zedManifest, null, 2),
 );
