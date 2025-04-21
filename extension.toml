@@ -5,4 +5,4 @@ schema_version = 1
 authors = ["Zed Industries <support@zed.dev>"]
 description = "Material Design icons."
 repository = "https://github.com/zed-extensions/material-icon-theme"
-icon_themes = ["icon_themes/material-icons.json"]
+icon_themes = ["icon_themes/material-icon-theme.json"]
