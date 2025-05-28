@@ -44,8 +44,8 @@ export const getTheme = (manifest: Manifest): IconTheme => {
     appearance: "dark",
     file_icons: transformedIconDefinitions,
     directory_icons: {
-      collapsed: "./node_modules/material-icon-theme/icons/folder.svg",
-      expanded: "./node_modules/material-icon-theme/icons/folder-open.svg",
+      collapsed: "./icons/folder.svg",
+      expanded: "./icons/folder-open.svg",
     },
     file_suffixes: manifest.fileExtensions ?? {},
     file_stems: transformedFileNames,
