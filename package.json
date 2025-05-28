@@ -2,6 +2,9 @@
   "name": "material-icon-theme",
   "version": "1.0.0",
   "description": "Material Design Icons for Zed",
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "build": "npx tsx src/build.ts"
   },
