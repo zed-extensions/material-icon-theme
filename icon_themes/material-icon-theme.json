@@ -247,6 +247,12 @@
         "tex": {
           "path": "./icons/tex.svg"
         },
+        "latex": {
+          "path": "./icons/latex.clone.svg"
+        },
+        "doctex": {
+          "path": "./icons/doctex.clone.svg"
+        },
         "salesforce": {
           "path": "./icons/salesforce.svg"
         },
@@ -316,8 +322,11 @@
         "lua": {
           "path": "./icons/lua.svg"
         },
-        "lib": {
-          "path": "./icons/lib.svg"
+        "bibliography": {
+          "path": "./icons/bibliography.svg"
+        },
+        "bibtex-style": {
+          "path": "./icons/bibtex-style.svg"
         },
         "log": {
           "path": "./icons/log.svg"
@@ -559,6 +568,9 @@
         "url": {
           "path": "./icons/url.svg"
         },
+        "excalidraw": {
+          "path": "./icons/excalidraw.svg"
+        },
         "gradle": {
           "path": "./icons/gradle.svg"
         },
@@ -577,6 +589,9 @@
         "font": {
           "path": "./icons/font.svg"
         },
+        "lib": {
+          "path": "./icons/lib.svg"
+        },
         "dll": {
           "path": "./icons/dll.svg"
         },
@@ -594,6 +609,27 @@
         },
         "arduino": {
           "path": "./icons/arduino.svg"
+        },
+        "bbx": {
+          "path": "./icons/bbx.svg"
+        },
+        "cbx": {
+          "path": "./icons/cbx.svg"
+        },
+        "lbx": {
+          "path": "./icons/lbx.svg"
+        },
+        "sty": {
+          "path": "./icons/sty.clone.svg"
+        },
+        "ltx": {
+          "path": "./icons/ltx.clone.svg"
+        },
+        "dtx": {
+          "path": "./icons/dtx.clone.svg"
+        },
+        "latexmk": {
+          "path": "./icons/latexmk.svg"
         },
         "powerpoint": {
           "path": "./icons/powerpoint.svg"
@@ -1795,6 +1831,18 @@
         "cline": {
           "path": "./icons/cline.svg"
         },
+        "packship": {
+          "path": "./icons/packship.svg"
+        },
+        "snakemake": {
+          "path": "./icons/snakemake.svg"
+        },
+        "hadolint": {
+          "path": "./icons/hadolint.svg"
+        },
+        "coloredpetrinets": {
+          "path": "./icons/coloredpetrinets.svg"
+        },
         "file": {
           "path": "./icons/file.svg"
         }
@@ -1984,6 +2032,7 @@
         "d.ts": "typescript-def",
         "d.cts": "typescript-def",
         "d.mts": "typescript-def",
+        "d.ets": "typescript-def",
         "mdoc": "markdoc",
         "markdoc": "markdoc",
         "markdoc.md": "markdoc",
@@ -2136,12 +2185,16 @@
         "fish": "console",
         "exp": "console",
         "nu": "console",
+        "xsh": "console",
         "ps1": "powershell",
         "psm1": "powershell",
         "psd1": "powershell",
         "ps1xml": "powershell",
         "psc1": "powershell",
         "pssc": "powershell",
+        "excalidraw.json": "excalidraw",
+        "excalidraw.svg": "excalidraw",
+        "excalidraw.png": "excalidraw",
         "gradle": "gradle",
         "doc": "word",
         "docx": "word",
@@ -2176,8 +2229,9 @@
         "ntf": "font",
         "mrf": "font",
         "lib": "lib",
-        "bib": "lib",
         "a": "lib",
+        "bib": "bibliography",
+        "bst": "bibtex-style",
         "dll": "dll",
         "ilk": "dll",
         "so": "dll",
@@ -2198,10 +2252,13 @@
         "containerfile": "docker",
         "compose.yaml": "docker",
         "compose.yml": "docker",
+        "bbx": "bbx",
+        "cbx": "cbx",
+        "lbx": "lbx",
         "tex": "tex",
-        "sty": "tex",
-        "dtx": "tex",
-        "ltx": "tex",
+        "sty": "sty",
+        "ltx": "ltx",
+        "dtx": "dtx",
         "pptx": "powerpoint",
         "ppt": "powerpoint",
         "pptm": "powerpoint",
@@ -2876,7 +2933,11 @@
         "bean": "beancount",
         "epub": "epub",
         "reg": "regedit",
-        "gnu": "gnuplot"
+        "gnu": "gnuplot",
+        "smk": "snakemake",
+        "snakemake": "snakemake",
+        "cpn": "coloredpetrinets",
+        "pnml": "coloredpetrinets"
       },
       "file_stems": {
         ".pug-lintrc": "pug",
@@ -3069,6 +3130,12 @@
         "PRE-PUSH": "console",
         "post-merge": "console",
         "POST-MERGE": "console",
+        "excalidraw.json": "excalidraw",
+        "EXCALIDRAW.JSON": "excalidraw",
+        "excalidraw.svg": "excalidraw",
+        "EXCALIDRAW.SVG": "excalidraw",
+        "excalidraw.png": "excalidraw",
+        "EXCALIDRAW.PNG": "excalidraw",
         "gradle.properties": "gradle",
         "GRADLE.PROPERTIES": "gradle",
         "gradlew": "gradle",
@@ -3351,6 +3418,10 @@
         "COMPOSE.WEB.YML": "docker",
         "compose.worker.yml": "docker",
         "COMPOSE.WORKER.YML": "docker",
+        ".latexmkrc": "latexmk",
+        ".LATEXMKRC": "latexmk",
+        "latexmkrc": "latexmk",
+        "LATEXMKRC": "latexmk",
         ".mailmap": "email",
         ".MAILMAP": "email",
         ".graphqlrc": "graphql",
@@ -4273,6 +4344,8 @@
         ".DEV.VARS": "tune",
         "turbo.json": "turborepo",
         "TURBO.JSON": "turborepo",
+        "turbo.jsonc": "turborepo",
+        "TURBO.JSONC": "turborepo",
         ".babelrc": "babel",
         ".BABELRC": "babel",
         ".babelrc.json": "babel",
@@ -5809,6 +5882,8 @@
         "SERVERLESS.TS": "serverless",
         "supabase.js": "supabase",
         "SUPABASE.JS": "supabase",
+        "supabase.ts": "supabase",
+        "SUPABASE.TS": "supabase",
         "supabase.py": "supabase",
         "SUPABASE.PY": "supabase",
         ".ember-cli": "ember",
@@ -6630,7 +6705,35 @@
         "wrangler.jsonc": "wrangler",
         "WRANGLER.JSONC": "wrangler",
         ".clinerules": "cline",
-        ".CLINERULES": "cline"
+        ".CLINERULES": "cline",
+        ".packshiprc": "packship",
+        ".PACKSHIPRC": "packship",
+        ".packshiprc.json": "packship",
+        ".PACKSHIPRC.JSON": "packship",
+        ".packshiprc.js": "packship",
+        ".PACKSHIPRC.JS": "packship",
+        ".packshiprc.ts": "packship",
+        ".PACKSHIPRC.TS": "packship",
+        "packship.config.js": "packship",
+        "PACKSHIP.CONFIG.JS": "packship",
+        "packship.config.ts": "packship",
+        "PACKSHIP.CONFIG.TS": "packship",
+        "packship.config.mjs": "packship",
+        "PACKSHIP.CONFIG.MJS": "packship",
+        "packship.config.mts": "packship",
+        "PACKSHIP.CONFIG.MTS": "packship",
+        "packship.config.json": "packship",
+        "PACKSHIP.CONFIG.JSON": "packship",
+        "snakefile": "snakemake",
+        "SNAKEFILE": "snakemake",
+        ".hadolint.yaml": "hadolint",
+        ".HADOLINT.YAML": "hadolint",
+        ".hadolint.yml": "hadolint",
+        ".HADOLINT.YML": "hadolint",
+        "hadolint.yaml": "hadolint",
+        "HADOLINT.YAML": "hadolint",
+        "hadolint.yml": "hadolint",
+        "HADOLINT.YML": "hadolint"
       }
     }
   ]
