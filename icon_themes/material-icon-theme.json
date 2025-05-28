@@ -8,1795 +8,1795 @@
       "appearance": "dark",
       "file_icons": {
         "vcs": {
-          "path": "./node_modules/material-icon-theme/icons/git.svg"
+          "path": "./icons/git.svg"
         },
         "github-actions-workflow": {
-          "path": "./node_modules/material-icon-theme/icons/github-actions-workflow.svg"
+          "path": "./icons/github-actions-workflow.svg"
         },
         "yaml": {
-          "path": "./node_modules/material-icon-theme/icons/yaml.svg"
+          "path": "./icons/yaml.svg"
         },
         "xml": {
-          "path": "./node_modules/material-icon-theme/icons/xml.svg"
+          "path": "./icons/xml.svg"
         },
         "matlab": {
-          "path": "./node_modules/material-icon-theme/icons/matlab.svg"
+          "path": "./icons/matlab.svg"
         },
         "settings": {
-          "path": "./node_modules/material-icon-theme/icons/settings.svg"
+          "path": "./icons/settings.svg"
         },
         "toml": {
-          "path": "./node_modules/material-icon-theme/icons/toml.svg"
+          "path": "./icons/toml.svg"
         },
         "toml_light": {
-          "path": "./node_modules/material-icon-theme/icons/toml_light.svg"
+          "path": "./icons/toml_light.svg"
         },
         "diff": {
-          "path": "./node_modules/material-icon-theme/icons/diff.svg"
+          "path": "./icons/diff.svg"
         },
         "json": {
-          "path": "./node_modules/material-icon-theme/icons/json.svg"
+          "path": "./icons/json.svg"
         },
         "blink": {
-          "path": "./node_modules/material-icon-theme/icons/blink.svg"
+          "path": "./icons/blink.svg"
         },
         "java": {
-          "path": "./node_modules/material-icon-theme/icons/java.svg"
+          "path": "./icons/java.svg"
         },
         "razor": {
-          "path": "./node_modules/material-icon-theme/icons/razor.svg"
+          "path": "./icons/razor.svg"
         },
         "python": {
-          "path": "./node_modules/material-icon-theme/icons/python.svg"
+          "path": "./icons/python.svg"
         },
         "mojo": {
-          "path": "./node_modules/material-icon-theme/icons/mojo.svg"
+          "path": "./icons/mojo.svg"
         },
         "javascript": {
-          "path": "./node_modules/material-icon-theme/icons/javascript.svg"
+          "path": "./icons/javascript.svg"
         },
         "typescript": {
-          "path": "./node_modules/material-icon-theme/icons/typescript.svg"
+          "path": "./icons/typescript.svg"
         },
         "scala": {
-          "path": "./node_modules/material-icon-theme/icons/scala.svg"
+          "path": "./icons/scala.svg"
         },
         "handlebars": {
-          "path": "./node_modules/material-icon-theme/icons/handlebars.svg"
+          "path": "./icons/handlebars.svg"
         },
         "perl": {
-          "path": "./node_modules/material-icon-theme/icons/perl.svg"
+          "path": "./icons/perl.svg"
         },
         "haxe": {
-          "path": "./node_modules/material-icon-theme/icons/haxe.svg"
+          "path": "./icons/haxe.svg"
         },
         "puppet": {
-          "path": "./node_modules/material-icon-theme/icons/puppet.svg"
+          "path": "./icons/puppet.svg"
         },
         "elixir": {
-          "path": "./node_modules/material-icon-theme/icons/elixir.svg"
+          "path": "./icons/elixir.svg"
         },
         "livescript": {
-          "path": "./node_modules/material-icon-theme/icons/livescript.svg"
+          "path": "./icons/livescript.svg"
         },
         "erlang": {
-          "path": "./node_modules/material-icon-theme/icons/erlang.svg"
+          "path": "./icons/erlang.svg"
         },
         "twig": {
-          "path": "./node_modules/material-icon-theme/icons/twig.svg"
+          "path": "./icons/twig.svg"
         },
         "julia": {
-          "path": "./node_modules/material-icon-theme/icons/julia.svg"
+          "path": "./icons/julia.svg"
         },
         "elm": {
-          "path": "./node_modules/material-icon-theme/icons/elm.svg"
+          "path": "./icons/elm.svg"
         },
         "purescript": {
-          "path": "./node_modules/material-icon-theme/icons/purescript.svg"
+          "path": "./icons/purescript.svg"
         },
         "stylus": {
-          "path": "./node_modules/material-icon-theme/icons/stylus.svg"
+          "path": "./icons/stylus.svg"
         },
         "nunjucks": {
-          "path": "./node_modules/material-icon-theme/icons/nunjucks.svg"
+          "path": "./icons/nunjucks.svg"
         },
         "pug": {
-          "path": "./node_modules/material-icon-theme/icons/pug.svg"
+          "path": "./icons/pug.svg"
         },
         "robot": {
-          "path": "./node_modules/material-icon-theme/icons/robot.svg"
+          "path": "./icons/robot.svg"
         },
         "sass": {
-          "path": "./node_modules/material-icon-theme/icons/sass.svg"
+          "path": "./icons/sass.svg"
         },
         "less": {
-          "path": "./node_modules/material-icon-theme/icons/less.svg"
+          "path": "./icons/less.svg"
         },
         "css": {
-          "path": "./node_modules/material-icon-theme/icons/css.svg"
+          "path": "./icons/css.svg"
         },
         "visualstudio": {
-          "path": "./node_modules/material-icon-theme/icons/visualstudio.svg"
+          "path": "./icons/visualstudio.svg"
         },
         "angular": {
-          "path": "./node_modules/material-icon-theme/icons/angular.svg"
+          "path": "./icons/angular.svg"
         },
         "graphql": {
-          "path": "./node_modules/material-icon-theme/icons/graphql.svg"
+          "path": "./icons/graphql.svg"
         },
         "solidity": {
-          "path": "./node_modules/material-icon-theme/icons/solidity.svg"
+          "path": "./icons/solidity.svg"
         },
         "autoit": {
-          "path": "./node_modules/material-icon-theme/icons/autoit.svg"
+          "path": "./icons/autoit.svg"
         },
         "haml": {
-          "path": "./node_modules/material-icon-theme/icons/haml.svg"
+          "path": "./icons/haml.svg"
         },
         "yang": {
-          "path": "./node_modules/material-icon-theme/icons/yang.svg"
+          "path": "./icons/yang.svg"
         },
         "terraform": {
-          "path": "./node_modules/material-icon-theme/icons/terraform.svg"
+          "path": "./icons/terraform.svg"
         },
         "applescript": {
-          "path": "./node_modules/material-icon-theme/icons/applescript.svg"
+          "path": "./icons/applescript.svg"
         },
         "cake": {
-          "path": "./node_modules/material-icon-theme/icons/cake.svg"
+          "path": "./icons/cake.svg"
         },
         "cucumber": {
-          "path": "./node_modules/material-icon-theme/icons/cucumber.svg"
+          "path": "./icons/cucumber.svg"
         },
         "nim": {
-          "path": "./node_modules/material-icon-theme/icons/nim.svg"
+          "path": "./icons/nim.svg"
         },
         "apiblueprint": {
-          "path": "./node_modules/material-icon-theme/icons/apiblueprint.svg"
+          "path": "./icons/apiblueprint.svg"
         },
         "riot": {
-          "path": "./node_modules/material-icon-theme/icons/riot.svg"
+          "path": "./icons/riot.svg"
         },
         "postcss": {
-          "path": "./node_modules/material-icon-theme/icons/postcss.svg"
+          "path": "./icons/postcss.svg"
         },
         "coldfusion": {
-          "path": "./node_modules/material-icon-theme/icons/coldfusion.svg"
+          "path": "./icons/coldfusion.svg"
         },
         "haskell": {
-          "path": "./node_modules/material-icon-theme/icons/haskell.svg"
+          "path": "./icons/haskell.svg"
         },
         "dhall": {
-          "path": "./node_modules/material-icon-theme/icons/dhall.svg"
+          "path": "./icons/dhall.svg"
         },
         "cabal": {
-          "path": "./node_modules/material-icon-theme/icons/cabal.svg"
+          "path": "./icons/cabal.svg"
         },
         "nix": {
-          "path": "./node_modules/material-icon-theme/icons/nix.svg"
+          "path": "./icons/nix.svg"
         },
         "ruby": {
-          "path": "./node_modules/material-icon-theme/icons/ruby.svg"
+          "path": "./icons/ruby.svg"
         },
         "slim": {
-          "path": "./node_modules/material-icon-theme/icons/slim.svg"
+          "path": "./icons/slim.svg"
         },
         "php": {
-          "path": "./node_modules/material-icon-theme/icons/php.svg"
+          "path": "./icons/php.svg"
         },
         "php_elephant": {
-          "path": "./node_modules/material-icon-theme/icons/php_elephant.svg"
+          "path": "./icons/php_elephant.svg"
         },
         "php_elephant_pink": {
-          "path": "./node_modules/material-icon-theme/icons/php_elephant_pink.svg"
+          "path": "./icons/php_elephant_pink.svg"
         },
         "hack": {
-          "path": "./node_modules/material-icon-theme/icons/hack.svg"
+          "path": "./icons/hack.svg"
         },
         "react": {
-          "path": "./node_modules/material-icon-theme/icons/react.svg"
+          "path": "./icons/react.svg"
         },
         "mjml": {
-          "path": "./node_modules/material-icon-theme/icons/mjml.svg"
+          "path": "./icons/mjml.svg"
         },
         "processing": {
-          "path": "./node_modules/material-icon-theme/icons/processing.svg"
+          "path": "./icons/processing.svg"
         },
         "hcl": {
-          "path": "./node_modules/material-icon-theme/icons/hcl.svg"
+          "path": "./icons/hcl.svg"
         },
         "go": {
-          "path": "./node_modules/material-icon-theme/icons/go.svg"
+          "path": "./icons/go.svg"
         },
         "go_gopher": {
-          "path": "./node_modules/material-icon-theme/icons/go_gopher.svg"
+          "path": "./icons/go_gopher.svg"
         },
         "nodejs_alt": {
-          "path": "./node_modules/material-icon-theme/icons/nodejs_alt.svg"
+          "path": "./icons/nodejs_alt.svg"
         },
         "django": {
-          "path": "./node_modules/material-icon-theme/icons/django.svg"
+          "path": "./icons/django.svg"
         },
         "html": {
-          "path": "./node_modules/material-icon-theme/icons/html.svg"
+          "path": "./icons/html.svg"
         },
         "godot": {
-          "path": "./node_modules/material-icon-theme/icons/godot.svg"
+          "path": "./icons/godot.svg"
         },
         "godot-assets": {
-          "path": "./node_modules/material-icon-theme/icons/godot-assets.svg"
+          "path": "./icons/godot-assets.svg"
         },
         "vim": {
-          "path": "./node_modules/material-icon-theme/icons/vim.svg"
+          "path": "./icons/vim.svg"
         },
         "silverstripe": {
-          "path": "./node_modules/material-icon-theme/icons/silverstripe.svg"
+          "path": "./icons/silverstripe.svg"
         },
         "prolog": {
-          "path": "./node_modules/material-icon-theme/icons/prolog.svg"
+          "path": "./icons/prolog.svg"
         },
         "pawn": {
-          "path": "./node_modules/material-icon-theme/icons/pawn.svg"
+          "path": "./icons/pawn.svg"
         },
         "reason": {
-          "path": "./node_modules/material-icon-theme/icons/reason.svg"
+          "path": "./icons/reason.svg"
         },
         "sml": {
-          "path": "./node_modules/material-icon-theme/icons/sml.svg"
+          "path": "./icons/sml.svg"
         },
         "tex": {
-          "path": "./node_modules/material-icon-theme/icons/tex.svg"
+          "path": "./icons/tex.svg"
         },
         "salesforce": {
-          "path": "./node_modules/material-icon-theme/icons/salesforce.svg"
+          "path": "./icons/salesforce.svg"
         },
         "sas": {
-          "path": "./node_modules/material-icon-theme/icons/sas.svg"
+          "path": "./icons/sas.svg"
         },
         "docker": {
-          "path": "./node_modules/material-icon-theme/icons/docker.svg"
+          "path": "./icons/docker.svg"
         },
         "table": {
-          "path": "./node_modules/material-icon-theme/icons/table.svg"
+          "path": "./icons/table.svg"
         },
         "csharp": {
-          "path": "./node_modules/material-icon-theme/icons/csharp.svg"
+          "path": "./icons/csharp.svg"
         },
         "terminal": {
-          "path": "./node_modules/material-icon-theme/icons/console.svg"
+          "path": "./icons/console.svg"
         },
         "c": {
-          "path": "./node_modules/material-icon-theme/icons/c.svg"
+          "path": "./icons/c.svg"
         },
         "cpp": {
-          "path": "./node_modules/material-icon-theme/icons/cpp.svg"
+          "path": "./icons/cpp.svg"
         },
         "objective-c": {
-          "path": "./node_modules/material-icon-theme/icons/objective-c.svg"
+          "path": "./icons/objective-c.svg"
         },
         "objective-cpp": {
-          "path": "./node_modules/material-icon-theme/icons/objective-cpp.svg"
+          "path": "./icons/objective-cpp.svg"
         },
         "c3": {
-          "path": "./node_modules/material-icon-theme/icons/c3.svg"
+          "path": "./icons/c3.svg"
         },
         "coffee": {
-          "path": "./node_modules/material-icon-theme/icons/coffee.svg"
+          "path": "./icons/coffee.svg"
         },
         "fsharp": {
-          "path": "./node_modules/material-icon-theme/icons/fsharp.svg"
+          "path": "./icons/fsharp.svg"
         },
         "editorconfig": {
-          "path": "./node_modules/material-icon-theme/icons/editorconfig.svg"
+          "path": "./icons/editorconfig.svg"
         },
         "clojure": {
-          "path": "./node_modules/material-icon-theme/icons/clojure.svg"
+          "path": "./icons/clojure.svg"
         },
         "groovy": {
-          "path": "./node_modules/material-icon-theme/icons/groovy.svg"
+          "path": "./icons/groovy.svg"
         },
         "markdoc": {
-          "path": "./node_modules/material-icon-theme/icons/markdoc.svg"
+          "path": "./icons/markdoc.svg"
         },
         "markdown": {
-          "path": "./node_modules/material-icon-theme/icons/markdown.svg"
+          "path": "./icons/markdown.svg"
         },
         "jinja": {
-          "path": "./node_modules/material-icon-theme/icons/jinja.svg"
+          "path": "./icons/jinja.svg"
         },
         "proto": {
-          "path": "./node_modules/material-icon-theme/icons/proto.svg"
+          "path": "./icons/proto.svg"
         },
         "python-misc": {
-          "path": "./node_modules/material-icon-theme/icons/python-misc.svg"
+          "path": "./icons/python-misc.svg"
         },
         "vue": {
-          "path": "./node_modules/material-icon-theme/icons/vue.svg"
+          "path": "./icons/vue.svg"
         },
         "lua": {
-          "path": "./node_modules/material-icon-theme/icons/lua.svg"
+          "path": "./icons/lua.svg"
         },
         "lib": {
-          "path": "./node_modules/material-icon-theme/icons/lib.svg"
+          "path": "./icons/lib.svg"
         },
         "log": {
-          "path": "./node_modules/material-icon-theme/icons/log.svg"
+          "path": "./icons/log.svg"
         },
         "jupyter": {
-          "path": "./node_modules/material-icon-theme/icons/jupyter.svg"
+          "path": "./icons/jupyter.svg"
         },
         "document": {
-          "path": "./node_modules/material-icon-theme/icons/document.svg"
+          "path": "./icons/document.svg"
         },
         "pdf": {
-          "path": "./node_modules/material-icon-theme/icons/pdf.svg"
+          "path": "./icons/pdf.svg"
         },
         "powershell": {
-          "path": "./node_modules/material-icon-theme/icons/powershell.svg"
+          "path": "./icons/powershell.svg"
         },
         "r": {
-          "path": "./node_modules/material-icon-theme/icons/r.svg"
+          "path": "./icons/r.svg"
         },
         "rust": {
-          "path": "./node_modules/material-icon-theme/icons/rust.svg"
+          "path": "./icons/rust.svg"
         },
         "database": {
-          "path": "./node_modules/material-icon-theme/icons/database.svg"
+          "path": "./icons/database.svg"
         },
         "kusto": {
-          "path": "./node_modules/material-icon-theme/icons/kusto.svg"
+          "path": "./icons/kusto.svg"
         },
         "lock": {
-          "path": "./node_modules/material-icon-theme/icons/lock.svg"
+          "path": "./icons/lock.svg"
         },
         "svg": {
-          "path": "./node_modules/material-icon-theme/icons/svg.svg"
+          "path": "./icons/svg.svg"
         },
         "swift": {
-          "path": "./node_modules/material-icon-theme/icons/swift.svg"
+          "path": "./icons/swift.svg"
         },
         "react_ts": {
-          "path": "./node_modules/material-icon-theme/icons/react_ts.svg"
+          "path": "./icons/react_ts.svg"
         },
         "search": {
-          "path": "./node_modules/material-icon-theme/icons/search.svg"
+          "path": "./icons/search.svg"
         },
         "minecraft": {
-          "path": "./node_modules/material-icon-theme/icons/minecraft.svg"
+          "path": "./icons/minecraft.svg"
         },
         "rescript": {
-          "path": "./node_modules/material-icon-theme/icons/rescript.svg"
+          "path": "./icons/rescript.svg"
         },
         "otne": {
-          "path": "./node_modules/material-icon-theme/icons/otne.svg"
+          "path": "./icons/otne.svg"
         },
         "twine": {
-          "path": "./node_modules/material-icon-theme/icons/twine.svg"
+          "path": "./icons/twine.svg"
         },
         "grain": {
-          "path": "./node_modules/material-icon-theme/icons/grain.svg"
+          "path": "./icons/grain.svg"
         },
         "lolcode": {
-          "path": "./node_modules/material-icon-theme/icons/lolcode.svg"
+          "path": "./icons/lolcode.svg"
         },
         "idris": {
-          "path": "./node_modules/material-icon-theme/icons/idris.svg"
+          "path": "./icons/idris.svg"
         },
         "chess": {
-          "path": "./node_modules/material-icon-theme/icons/chess.svg"
+          "path": "./icons/chess.svg"
         },
         "gemini": {
-          "path": "./node_modules/material-icon-theme/icons/gemini.svg"
+          "path": "./icons/gemini.svg"
         },
         "vlang": {
-          "path": "./node_modules/material-icon-theme/icons/vlang.svg"
+          "path": "./icons/vlang.svg"
         },
         "wolframlanguage": {
-          "path": "./node_modules/material-icon-theme/icons/wolframlanguage.svg"
+          "path": "./icons/wolframlanguage.svg"
         },
         "shader": {
-          "path": "./node_modules/material-icon-theme/icons/shader.svg"
+          "path": "./icons/shader.svg"
         },
         "tree": {
-          "path": "./node_modules/material-icon-theme/icons/tree.svg"
+          "path": "./icons/tree.svg"
         },
         "svelte": {
-          "path": "./node_modules/material-icon-theme/icons/svelte.svg"
+          "path": "./icons/svelte.svg"
         },
         "dart": {
-          "path": "./node_modules/material-icon-theme/icons/dart.svg"
+          "path": "./icons/dart.svg"
         },
         "cadence": {
-          "path": "./node_modules/material-icon-theme/icons/cadence.svg"
+          "path": "./icons/cadence.svg"
         },
         "stylable": {
-          "path": "./node_modules/material-icon-theme/icons/stylable.svg"
+          "path": "./icons/stylable.svg"
         },
         "hjson": {
-          "path": "./node_modules/material-icon-theme/icons/hjson.svg"
+          "path": "./icons/hjson.svg"
         },
         "huff": {
-          "path": "./node_modules/material-icon-theme/icons/huff.svg"
+          "path": "./icons/huff.svg"
         },
         "cds": {
-          "path": "./node_modules/material-icon-theme/icons/cds.svg"
+          "path": "./icons/cds.svg"
         },
         "concourse": {
-          "path": "./node_modules/material-icon-theme/icons/concourse.svg"
+          "path": "./icons/concourse.svg"
         },
         "systemd": {
-          "path": "./node_modules/material-icon-theme/icons/systemd.svg"
+          "path": "./icons/systemd.svg"
         },
         "systemd_light": {
-          "path": "./node_modules/material-icon-theme/icons/systemd_light.svg"
+          "path": "./icons/systemd_light.svg"
         },
         "slint": {
-          "path": "./node_modules/material-icon-theme/icons/slint.svg"
+          "path": "./icons/slint.svg"
         },
         "luau": {
-          "path": "./node_modules/material-icon-theme/icons/luau.svg"
+          "path": "./icons/luau.svg"
         },
         "hosts": {
-          "path": "./node_modules/material-icon-theme/icons/hosts.svg"
+          "path": "./icons/hosts.svg"
         },
         "beancount": {
-          "path": "./node_modules/material-icon-theme/icons/beancount.svg"
+          "path": "./icons/beancount.svg"
         },
         "ahk2": {
-          "path": "./node_modules/material-icon-theme/icons/ahk2.clone.svg"
+          "path": "./icons/ahk2.clone.svg"
         },
         "gnuplot": {
-          "path": "./node_modules/material-icon-theme/icons/gnuplot.svg"
+          "path": "./icons/gnuplot.svg"
         },
         "blink_light": {
-          "path": "./node_modules/material-icon-theme/icons/blink_light.svg"
+          "path": "./icons/blink_light.svg"
         },
         "just": {
-          "path": "./node_modules/material-icon-theme/icons/just.svg"
+          "path": "./icons/just.svg"
         },
         "jinja_light": {
-          "path": "./node_modules/material-icon-theme/icons/jinja_light.svg"
+          "path": "./icons/jinja_light.svg"
         },
         "playwright": {
-          "path": "./node_modules/material-icon-theme/icons/playwright.svg"
+          "path": "./icons/playwright.svg"
         },
         "sublime": {
-          "path": "./node_modules/material-icon-theme/icons/sublime.svg"
+          "path": "./icons/sublime.svg"
         },
         "simulink": {
-          "path": "./node_modules/material-icon-theme/icons/simulink.svg"
+          "path": "./icons/simulink.svg"
         },
         "image": {
-          "path": "./node_modules/material-icon-theme/icons/image.svg"
+          "path": "./icons/image.svg"
         },
         "palette": {
-          "path": "./node_modules/material-icon-theme/icons/palette.svg"
+          "path": "./icons/palette.svg"
         },
         "rocket": {
-          "path": "./node_modules/material-icon-theme/icons/rocket.svg"
+          "path": "./icons/rocket.svg"
         },
         "routing": {
-          "path": "./node_modules/material-icon-theme/icons/routing.svg"
+          "path": "./icons/routing.svg"
         },
         "redux-action": {
-          "path": "./node_modules/material-icon-theme/icons/redux-action.svg"
+          "path": "./icons/redux-action.svg"
         },
         "redux-reducer": {
-          "path": "./node_modules/material-icon-theme/icons/redux-reducer.svg"
+          "path": "./icons/redux-reducer.svg"
         },
         "redux-selector": {
-          "path": "./node_modules/material-icon-theme/icons/redux-selector.svg"
+          "path": "./icons/redux-selector.svg"
         },
         "redux-store": {
-          "path": "./node_modules/material-icon-theme/icons/redux-store.svg"
+          "path": "./icons/redux-store.svg"
         },
         "typescript-def": {
-          "path": "./node_modules/material-icon-theme/icons/typescript-def.svg"
+          "path": "./icons/typescript-def.svg"
         },
         "markdoc-config": {
-          "path": "./node_modules/material-icon-theme/icons/markdoc-config.svg"
+          "path": "./icons/markdoc-config.svg"
         },
         "markojs": {
-          "path": "./node_modules/material-icon-theme/icons/markojs.svg"
+          "path": "./icons/markojs.svg"
         },
         "astro": {
-          "path": "./node_modules/material-icon-theme/icons/astro.svg"
+          "path": "./icons/astro.svg"
         },
         "astro-config": {
-          "path": "./node_modules/material-icon-theme/icons/astro-config.svg"
+          "path": "./icons/astro-config.svg"
         },
         "vscode": {
-          "path": "./node_modules/material-icon-theme/icons/vscode.svg"
+          "path": "./icons/vscode.svg"
         },
         "qsharp": {
-          "path": "./node_modules/material-icon-theme/icons/qsharp.svg"
+          "path": "./icons/qsharp.svg"
         },
         "zip": {
-          "path": "./node_modules/material-icon-theme/icons/zip.svg"
+          "path": "./icons/zip.svg"
         },
         "vala": {
-          "path": "./node_modules/material-icon-theme/icons/vala.svg"
+          "path": "./icons/vala.svg"
         },
         "zig": {
-          "path": "./node_modules/material-icon-theme/icons/zig.svg"
+          "path": "./icons/zig.svg"
         },
         "exe": {
-          "path": "./node_modules/material-icon-theme/icons/exe.svg"
+          "path": "./icons/exe.svg"
         },
         "hex": {
-          "path": "./node_modules/material-icon-theme/icons/hex.svg"
+          "path": "./icons/hex.svg"
         },
         "jar": {
-          "path": "./node_modules/material-icon-theme/icons/jar.svg"
+          "path": "./icons/jar.svg"
         },
         "javaclass": {
-          "path": "./node_modules/material-icon-theme/icons/javaclass.svg"
+          "path": "./icons/javaclass.svg"
         },
         "h": {
-          "path": "./node_modules/material-icon-theme/icons/h.svg"
+          "path": "./icons/h.svg"
         },
         "hpp": {
-          "path": "./node_modules/material-icon-theme/icons/hpp.svg"
+          "path": "./icons/hpp.svg"
         },
         "rc": {
-          "path": "./node_modules/material-icon-theme/icons/rc.svg"
+          "path": "./icons/rc.svg"
         },
         "go-mod": {
-          "path": "./node_modules/material-icon-theme/icons/go-mod.svg"
+          "path": "./icons/go-mod.svg"
         },
         "ruff": {
-          "path": "./node_modules/material-icon-theme/icons/ruff.svg"
+          "path": "./icons/ruff.svg"
         },
         "uv": {
-          "path": "./node_modules/material-icon-theme/icons/uv.svg"
+          "path": "./icons/uv.svg"
         },
         "scons": {
-          "path": "./node_modules/material-icon-theme/icons/scons.svg"
+          "path": "./icons/scons.svg"
         },
         "scons_light": {
-          "path": "./node_modules/material-icon-theme/icons/scons_light.svg"
+          "path": "./icons/scons_light.svg"
         },
         "url": {
-          "path": "./node_modules/material-icon-theme/icons/url.svg"
+          "path": "./icons/url.svg"
         },
         "gradle": {
-          "path": "./node_modules/material-icon-theme/icons/gradle.svg"
+          "path": "./icons/gradle.svg"
         },
         "word": {
-          "path": "./node_modules/material-icon-theme/icons/word.svg"
+          "path": "./icons/word.svg"
         },
         "certificate": {
-          "path": "./node_modules/material-icon-theme/icons/certificate.svg"
+          "path": "./icons/certificate.svg"
         },
         "key": {
-          "path": "./node_modules/material-icon-theme/icons/key.svg"
+          "path": "./icons/key.svg"
         },
         "keystatic": {
-          "path": "./node_modules/material-icon-theme/icons/keystatic.svg"
+          "path": "./icons/keystatic.svg"
         },
         "font": {
-          "path": "./node_modules/material-icon-theme/icons/font.svg"
+          "path": "./icons/font.svg"
         },
         "dll": {
-          "path": "./node_modules/material-icon-theme/icons/dll.svg"
+          "path": "./icons/dll.svg"
         },
         "gemfile": {
-          "path": "./node_modules/material-icon-theme/icons/gemfile.svg"
+          "path": "./icons/gemfile.svg"
         },
         "rubocop": {
-          "path": "./node_modules/material-icon-theme/icons/rubocop.svg"
+          "path": "./icons/rubocop.svg"
         },
         "rubocop_light": {
-          "path": "./node_modules/material-icon-theme/icons/rubocop_light.svg"
+          "path": "./icons/rubocop_light.svg"
         },
         "rspec": {
-          "path": "./node_modules/material-icon-theme/icons/rspec.svg"
+          "path": "./icons/rspec.svg"
         },
         "arduino": {
-          "path": "./node_modules/material-icon-theme/icons/arduino.svg"
+          "path": "./icons/arduino.svg"
         },
         "powerpoint": {
-          "path": "./node_modules/material-icon-theme/icons/powerpoint.svg"
+          "path": "./icons/powerpoint.svg"
         },
         "video": {
-          "path": "./node_modules/material-icon-theme/icons/video.svg"
+          "path": "./icons/video.svg"
         },
         "virtual": {
-          "path": "./node_modules/material-icon-theme/icons/virtual.svg"
+          "path": "./icons/virtual.svg"
         },
         "vedic": {
-          "path": "./node_modules/material-icon-theme/icons/vedic.svg"
+          "path": "./icons/vedic.svg"
         },
         "email": {
-          "path": "./node_modules/material-icon-theme/icons/email.svg"
+          "path": "./icons/email.svg"
         },
         "audio": {
-          "path": "./node_modules/material-icon-theme/icons/audio.svg"
+          "path": "./icons/audio.svg"
         },
         "lyric": {
-          "path": "./node_modules/material-icon-theme/icons/lyric.svg"
+          "path": "./icons/lyric.svg"
         },
         "raml": {
-          "path": "./node_modules/material-icon-theme/icons/raml.svg"
+          "path": "./icons/raml.svg"
         },
         "xaml": {
-          "path": "./node_modules/material-icon-theme/icons/xaml.svg"
+          "path": "./icons/xaml.svg"
         },
         "kotlin": {
-          "path": "./node_modules/material-icon-theme/icons/kotlin.svg"
+          "path": "./icons/kotlin.svg"
         },
         "mist": {
-          "path": "./node_modules/material-icon-theme/icons/mist.clone.svg"
+          "path": "./icons/mist.clone.svg"
         },
         "dart_generated": {
-          "path": "./node_modules/material-icon-theme/icons/dart_generated.svg"
+          "path": "./icons/dart_generated.svg"
         },
         "actionscript": {
-          "path": "./node_modules/material-icon-theme/icons/actionscript.svg"
+          "path": "./icons/actionscript.svg"
         },
         "mxml": {
-          "path": "./node_modules/material-icon-theme/icons/mxml.svg"
+          "path": "./icons/mxml.svg"
         },
         "autohotkey": {
-          "path": "./node_modules/material-icon-theme/icons/autohotkey.svg"
+          "path": "./icons/autohotkey.svg"
         },
         "flash": {
-          "path": "./node_modules/material-icon-theme/icons/flash.svg"
+          "path": "./icons/flash.svg"
         },
         "adobe-swc": {
-          "path": "./node_modules/material-icon-theme/icons/adobe-swc.svg"
+          "path": "./icons/adobe-swc.svg"
         },
         "swc": {
-          "path": "./node_modules/material-icon-theme/icons/swc.svg"
+          "path": "./icons/swc.svg"
         },
         "cmake": {
-          "path": "./node_modules/material-icon-theme/icons/cmake.svg"
+          "path": "./icons/cmake.svg"
         },
         "assembly": {
-          "path": "./node_modules/material-icon-theme/icons/assembly.svg"
+          "path": "./icons/assembly.svg"
         },
         "semgrep": {
-          "path": "./node_modules/material-icon-theme/icons/semgrep.svg"
+          "path": "./icons/semgrep.svg"
         },
         "vue-config": {
-          "path": "./node_modules/material-icon-theme/icons/vue-config.svg"
+          "path": "./icons/vue-config.svg"
         },
         "vuex-store": {
-          "path": "./node_modules/material-icon-theme/icons/vuex-store.svg"
+          "path": "./icons/vuex-store.svg"
         },
         "nuxt": {
-          "path": "./node_modules/material-icon-theme/icons/nuxt.svg"
+          "path": "./icons/nuxt.svg"
         },
         "harmonix": {
-          "path": "./node_modules/material-icon-theme/icons/harmonix.svg"
+          "path": "./icons/harmonix.svg"
         },
         "ocaml": {
-          "path": "./node_modules/material-icon-theme/icons/ocaml.svg"
+          "path": "./icons/ocaml.svg"
         },
         "odin": {
-          "path": "./node_modules/material-icon-theme/icons/odin.svg"
+          "path": "./icons/odin.svg"
         },
         "javascript-map": {
-          "path": "./node_modules/material-icon-theme/icons/javascript-map.svg"
+          "path": "./icons/javascript-map.svg"
         },
         "css-map": {
-          "path": "./node_modules/material-icon-theme/icons/css-map.svg"
+          "path": "./icons/css-map.svg"
         },
         "test-ts": {
-          "path": "./node_modules/material-icon-theme/icons/test-ts.svg"
+          "path": "./icons/test-ts.svg"
         },
         "test-jsx": {
-          "path": "./node_modules/material-icon-theme/icons/test-jsx.svg"
+          "path": "./icons/test-jsx.svg"
         },
         "test-js": {
-          "path": "./node_modules/material-icon-theme/icons/test-js.svg"
+          "path": "./icons/test-js.svg"
         },
         "angular-component": {
-          "path": "./node_modules/material-icon-theme/icons/angular-component.clone.svg"
+          "path": "./icons/angular-component.clone.svg"
         },
         "angular-guard": {
-          "path": "./node_modules/material-icon-theme/icons/angular-guard.clone.svg"
+          "path": "./icons/angular-guard.clone.svg"
         },
         "angular-service": {
-          "path": "./node_modules/material-icon-theme/icons/angular-service.clone.svg"
+          "path": "./icons/angular-service.clone.svg"
         },
         "angular-pipe": {
-          "path": "./node_modules/material-icon-theme/icons/angular-pipe.clone.svg"
+          "path": "./icons/angular-pipe.clone.svg"
         },
         "angular-directive": {
-          "path": "./node_modules/material-icon-theme/icons/angular-directive.clone.svg"
+          "path": "./icons/angular-directive.clone.svg"
         },
         "angular-resolver": {
-          "path": "./node_modules/material-icon-theme/icons/angular-resolver.clone.svg"
+          "path": "./icons/angular-resolver.clone.svg"
         },
         "angular-interceptor": {
-          "path": "./node_modules/material-icon-theme/icons/angular-interceptor.clone.svg"
+          "path": "./icons/angular-interceptor.clone.svg"
         },
         "smarty": {
-          "path": "./node_modules/material-icon-theme/icons/smarty.svg"
+          "path": "./icons/smarty.svg"
         },
         "bucklescript": {
-          "path": "./node_modules/material-icon-theme/icons/bucklescript.svg"
+          "path": "./icons/bucklescript.svg"
         },
         "merlin": {
-          "path": "./node_modules/material-icon-theme/icons/merlin.svg"
+          "path": "./icons/merlin.svg"
         },
         "verilog": {
-          "path": "./node_modules/material-icon-theme/icons/verilog.svg"
+          "path": "./icons/verilog.svg"
         },
         "mathematica": {
-          "path": "./node_modules/material-icon-theme/icons/mathematica.svg"
+          "path": "./icons/mathematica.svg"
         },
         "vercel": {
-          "path": "./node_modules/material-icon-theme/icons/vercel.svg"
+          "path": "./icons/vercel.svg"
         },
         "vercel_light": {
-          "path": "./node_modules/material-icon-theme/icons/vercel_light.svg"
+          "path": "./icons/vercel_light.svg"
         },
         "liara": {
-          "path": "./node_modules/material-icon-theme/icons/liara.svg"
+          "path": "./icons/liara.svg"
         },
         "verdaccio": {
-          "path": "./node_modules/material-icon-theme/icons/verdaccio.svg"
+          "path": "./icons/verdaccio.svg"
         },
         "payload": {
-          "path": "./node_modules/material-icon-theme/icons/payload.svg"
+          "path": "./icons/payload.svg"
         },
         "payload_light": {
-          "path": "./node_modules/material-icon-theme/icons/payload_light.svg"
+          "path": "./icons/payload_light.svg"
         },
         "next": {
-          "path": "./node_modules/material-icon-theme/icons/next.svg"
+          "path": "./icons/next.svg"
         },
         "next_light": {
-          "path": "./node_modules/material-icon-theme/icons/next_light.svg"
+          "path": "./icons/next_light.svg"
         },
         "remark": {
-          "path": "./node_modules/material-icon-theme/icons/remark.svg"
+          "path": "./icons/remark.svg"
         },
         "remix": {
-          "path": "./node_modules/material-icon-theme/icons/remix.svg"
+          "path": "./icons/remix.svg"
         },
         "remix_light": {
-          "path": "./node_modules/material-icon-theme/icons/remix_light.svg"
+          "path": "./icons/remix_light.svg"
         },
         "laravel": {
-          "path": "./node_modules/material-icon-theme/icons/laravel.svg"
+          "path": "./icons/laravel.svg"
         },
         "vfl": {
-          "path": "./node_modules/material-icon-theme/icons/vfl.svg"
+          "path": "./icons/vfl.svg"
         },
         "kl": {
-          "path": "./node_modules/material-icon-theme/icons/kl.svg"
+          "path": "./icons/kl.svg"
         },
         "posthtml": {
-          "path": "./node_modules/material-icon-theme/icons/posthtml.svg"
+          "path": "./icons/posthtml.svg"
         },
         "todo": {
-          "path": "./node_modules/material-icon-theme/icons/todo.svg"
+          "path": "./icons/todo.svg"
         },
         "http": {
-          "path": "./node_modules/material-icon-theme/icons/http.svg"
+          "path": "./icons/http.svg"
         },
         "restql": {
-          "path": "./node_modules/material-icon-theme/icons/restql.svg"
+          "path": "./icons/restql.svg"
         },
         "kivy": {
-          "path": "./node_modules/material-icon-theme/icons/kivy.svg"
+          "path": "./icons/kivy.svg"
         },
         "graphcool": {
-          "path": "./node_modules/material-icon-theme/icons/graphcool.svg"
+          "path": "./icons/graphcool.svg"
         },
         "sbt": {
-          "path": "./node_modules/material-icon-theme/icons/sbt.svg"
+          "path": "./icons/sbt.svg"
         },
         "webpack": {
-          "path": "./node_modules/material-icon-theme/icons/webpack.svg"
+          "path": "./icons/webpack.svg"
         },
         "ionic": {
-          "path": "./node_modules/material-icon-theme/icons/ionic.svg"
+          "path": "./icons/ionic.svg"
         },
         "gulp": {
-          "path": "./node_modules/material-icon-theme/icons/gulp.svg"
+          "path": "./icons/gulp.svg"
         },
         "nodejs": {
-          "path": "./node_modules/material-icon-theme/icons/nodejs.svg"
+          "path": "./icons/nodejs.svg"
         },
         "npm": {
-          "path": "./node_modules/material-icon-theme/icons/npm.svg"
+          "path": "./icons/npm.svg"
         },
         "yarn": {
-          "path": "./node_modules/material-icon-theme/icons/yarn.svg"
+          "path": "./icons/yarn.svg"
         },
         "android": {
-          "path": "./node_modules/material-icon-theme/icons/android.svg"
+          "path": "./icons/android.svg"
         },
         "tune": {
-          "path": "./node_modules/material-icon-theme/icons/tune.svg"
+          "path": "./icons/tune.svg"
         },
         "turborepo": {
-          "path": "./node_modules/material-icon-theme/icons/turborepo.svg"
+          "path": "./icons/turborepo.svg"
         },
         "turborepo_light": {
-          "path": "./node_modules/material-icon-theme/icons/turborepo_light.svg"
+          "path": "./icons/turborepo_light.svg"
         },
         "babel": {
-          "path": "./node_modules/material-icon-theme/icons/babel.svg"
+          "path": "./icons/babel.svg"
         },
         "blitz": {
-          "path": "./node_modules/material-icon-theme/icons/blitz.svg"
+          "path": "./icons/blitz.svg"
         },
         "contributing": {
-          "path": "./node_modules/material-icon-theme/icons/contributing.svg"
+          "path": "./icons/contributing.svg"
         },
         "readme": {
-          "path": "./node_modules/material-icon-theme/icons/readme.svg"
+          "path": "./icons/readme.svg"
         },
         "changelog": {
-          "path": "./node_modules/material-icon-theme/icons/changelog.svg"
+          "path": "./icons/changelog.svg"
         },
         "architecture": {
-          "path": "./node_modules/material-icon-theme/icons/architecture.svg"
+          "path": "./icons/architecture.svg"
         },
         "credits": {
-          "path": "./node_modules/material-icon-theme/icons/credits.svg"
+          "path": "./icons/credits.svg"
         },
         "authors": {
-          "path": "./node_modules/material-icon-theme/icons/authors.svg"
+          "path": "./icons/authors.svg"
         },
         "flow": {
-          "path": "./node_modules/material-icon-theme/icons/flow.svg"
+          "path": "./icons/flow.svg"
         },
         "favicon": {
-          "path": "./node_modules/material-icon-theme/icons/favicon.svg"
+          "path": "./icons/favicon.svg"
         },
         "karma": {
-          "path": "./node_modules/material-icon-theme/icons/karma.svg"
+          "path": "./icons/karma.svg"
         },
         "bithound": {
-          "path": "./node_modules/material-icon-theme/icons/bithound.svg"
+          "path": "./icons/bithound.svg"
         },
         "svgo": {
-          "path": "./node_modules/material-icon-theme/icons/svgo.svg"
+          "path": "./icons/svgo.svg"
         },
         "appveyor": {
-          "path": "./node_modules/material-icon-theme/icons/appveyor.svg"
+          "path": "./icons/appveyor.svg"
         },
         "travis": {
-          "path": "./node_modules/material-icon-theme/icons/travis.svg"
+          "path": "./icons/travis.svg"
         },
         "codecov": {
-          "path": "./node_modules/material-icon-theme/icons/codecov.svg"
+          "path": "./icons/codecov.svg"
         },
         "sonarcloud": {
-          "path": "./node_modules/material-icon-theme/icons/sonarcloud.svg"
+          "path": "./icons/sonarcloud.svg"
         },
         "protractor": {
-          "path": "./node_modules/material-icon-theme/icons/protractor.svg"
+          "path": "./icons/protractor.svg"
         },
         "fusebox": {
-          "path": "./node_modules/material-icon-theme/icons/fusebox.svg"
+          "path": "./icons/fusebox.svg"
         },
         "heroku": {
-          "path": "./node_modules/material-icon-theme/icons/heroku.svg"
+          "path": "./icons/heroku.svg"
         },
         "gitlab": {
-          "path": "./node_modules/material-icon-theme/icons/gitlab.svg"
+          "path": "./icons/gitlab.svg"
         },
         "bower": {
-          "path": "./node_modules/material-icon-theme/icons/bower.svg"
+          "path": "./icons/bower.svg"
         },
         "eslint": {
-          "path": "./node_modules/material-icon-theme/icons/eslint.svg"
+          "path": "./icons/eslint.svg"
         },
         "conduct": {
-          "path": "./node_modules/material-icon-theme/icons/conduct.svg"
+          "path": "./icons/conduct.svg"
         },
         "watchman": {
-          "path": "./node_modules/material-icon-theme/icons/watchman.svg"
+          "path": "./icons/watchman.svg"
         },
         "aurelia": {
-          "path": "./node_modules/material-icon-theme/icons/aurelia.svg"
+          "path": "./icons/aurelia.svg"
         },
         "auto": {
-          "path": "./node_modules/material-icon-theme/icons/auto.svg"
+          "path": "./icons/auto.svg"
         },
         "auto_light": {
-          "path": "./node_modules/material-icon-theme/icons/auto_light.svg"
+          "path": "./icons/auto_light.svg"
         },
         "mocha": {
-          "path": "./node_modules/material-icon-theme/icons/mocha.svg"
+          "path": "./icons/mocha.svg"
         },
         "jenkins": {
-          "path": "./node_modules/material-icon-theme/icons/jenkins.svg"
+          "path": "./icons/jenkins.svg"
         },
         "firebase": {
-          "path": "./node_modules/material-icon-theme/icons/firebase.svg"
+          "path": "./icons/firebase.svg"
         },
         "figma": {
-          "path": "./node_modules/material-icon-theme/icons/figma.svg"
+          "path": "./icons/figma.svg"
         },
         "rollup": {
-          "path": "./node_modules/material-icon-theme/icons/rollup.svg"
+          "path": "./icons/rollup.svg"
         },
         "huff_light": {
-          "path": "./node_modules/material-icon-theme/icons/huff_light.svg"
+          "path": "./icons/huff_light.svg"
         },
         "hardhat": {
-          "path": "./node_modules/material-icon-theme/icons/hardhat.svg"
+          "path": "./icons/hardhat.svg"
         },
         "stylelint": {
-          "path": "./node_modules/material-icon-theme/icons/stylelint.svg"
+          "path": "./icons/stylelint.svg"
         },
         "stylelint_light": {
-          "path": "./node_modules/material-icon-theme/icons/stylelint_light.svg"
+          "path": "./icons/stylelint_light.svg"
         },
         "code-climate": {
-          "path": "./node_modules/material-icon-theme/icons/code-climate.svg"
+          "path": "./icons/code-climate.svg"
         },
         "code-climate_light": {
-          "path": "./node_modules/material-icon-theme/icons/code-climate_light.svg"
+          "path": "./icons/code-climate_light.svg"
         },
         "prettier": {
-          "path": "./node_modules/material-icon-theme/icons/prettier.svg"
+          "path": "./icons/prettier.svg"
         },
         "renovate": {
-          "path": "./node_modules/material-icon-theme/icons/renovate.svg"
+          "path": "./icons/renovate.svg"
         },
         "apollo": {
-          "path": "./node_modules/material-icon-theme/icons/apollo.svg"
+          "path": "./icons/apollo.svg"
         },
         "nodemon": {
-          "path": "./node_modules/material-icon-theme/icons/nodemon.svg"
+          "path": "./icons/nodemon.svg"
         },
         "ngrx-reducer": {
-          "path": "./node_modules/material-icon-theme/icons/ngrx-reducer.svg"
+          "path": "./icons/ngrx-reducer.svg"
         },
         "ngrx-state": {
-          "path": "./node_modules/material-icon-theme/icons/ngrx-state.svg"
+          "path": "./icons/ngrx-state.svg"
         },
         "ngrx-actions": {
-          "path": "./node_modules/material-icon-theme/icons/ngrx-actions.svg"
+          "path": "./icons/ngrx-actions.svg"
         },
         "ngrx-effects": {
-          "path": "./node_modules/material-icon-theme/icons/ngrx-effects.svg"
+          "path": "./icons/ngrx-effects.svg"
         },
         "ngrx-entity": {
-          "path": "./node_modules/material-icon-theme/icons/ngrx-entity.svg"
+          "path": "./icons/ngrx-entity.svg"
         },
         "ngrx-selectors": {
-          "path": "./node_modules/material-icon-theme/icons/ngrx-selectors.svg"
+          "path": "./icons/ngrx-selectors.svg"
         },
         "webhint": {
-          "path": "./node_modules/material-icon-theme/icons/webhint.svg"
+          "path": "./icons/webhint.svg"
         },
         "browserlist": {
-          "path": "./node_modules/material-icon-theme/icons/browserlist.svg"
+          "path": "./icons/browserlist.svg"
         },
         "browserlist_light": {
-          "path": "./node_modules/material-icon-theme/icons/browserlist_light.svg"
+          "path": "./icons/browserlist_light.svg"
         },
         "crystal": {
-          "path": "./node_modules/material-icon-theme/icons/crystal.svg"
+          "path": "./icons/crystal.svg"
         },
         "crystal_light": {
-          "path": "./node_modules/material-icon-theme/icons/crystal_light.svg"
+          "path": "./icons/crystal_light.svg"
         },
         "snyk": {
-          "path": "./node_modules/material-icon-theme/icons/snyk.svg"
+          "path": "./icons/snyk.svg"
         },
         "drone": {
-          "path": "./node_modules/material-icon-theme/icons/drone.svg"
+          "path": "./icons/drone.svg"
         },
         "drone_light": {
-          "path": "./node_modules/material-icon-theme/icons/drone_light.svg"
+          "path": "./icons/drone_light.svg"
         },
         "cuda": {
-          "path": "./node_modules/material-icon-theme/icons/cuda.svg"
+          "path": "./icons/cuda.svg"
         },
         "dotjs": {
-          "path": "./node_modules/material-icon-theme/icons/dotjs.svg"
+          "path": "./icons/dotjs.svg"
         },
         "ejs": {
-          "path": "./node_modules/material-icon-theme/icons/ejs.svg"
+          "path": "./icons/ejs.svg"
         },
         "sequelize": {
-          "path": "./node_modules/material-icon-theme/icons/sequelize.svg"
+          "path": "./icons/sequelize.svg"
         },
         "gatsby": {
-          "path": "./node_modules/material-icon-theme/icons/gatsby.svg"
+          "path": "./icons/gatsby.svg"
         },
         "wakatime": {
-          "path": "./node_modules/material-icon-theme/icons/wakatime.svg"
+          "path": "./icons/wakatime.svg"
         },
         "wakatime_light": {
-          "path": "./node_modules/material-icon-theme/icons/wakatime_light.svg"
+          "path": "./icons/wakatime_light.svg"
         },
         "circleci": {
-          "path": "./node_modules/material-icon-theme/icons/circleci.svg"
+          "path": "./icons/circleci.svg"
         },
         "circleci_light": {
-          "path": "./node_modules/material-icon-theme/icons/circleci_light.svg"
+          "path": "./icons/circleci_light.svg"
         },
         "cloudfoundry": {
-          "path": "./node_modules/material-icon-theme/icons/cloudfoundry.svg"
+          "path": "./icons/cloudfoundry.svg"
         },
         "grunt": {
-          "path": "./node_modules/material-icon-theme/icons/grunt.svg"
+          "path": "./icons/grunt.svg"
         },
         "jest": {
-          "path": "./node_modules/material-icon-theme/icons/jest.svg"
+          "path": "./icons/jest.svg"
         },
         "storybook": {
-          "path": "./node_modules/material-icon-theme/icons/storybook.svg"
+          "path": "./icons/storybook.svg"
         },
         "wepy": {
-          "path": "./node_modules/material-icon-theme/icons/wepy.svg"
+          "path": "./icons/wepy.svg"
         },
         "fastlane": {
-          "path": "./node_modules/material-icon-theme/icons/fastlane.svg"
+          "path": "./icons/fastlane.svg"
         },
         "hcl_light": {
-          "path": "./node_modules/material-icon-theme/icons/hcl_light.svg"
+          "path": "./icons/hcl_light.svg"
         },
         "helm": {
-          "path": "./node_modules/material-icon-theme/icons/helm.svg"
+          "path": "./icons/helm.svg"
         },
         "san": {
-          "path": "./node_modules/material-icon-theme/icons/san.svg"
+          "path": "./icons/san.svg"
         },
         "quokka": {
-          "path": "./node_modules/material-icon-theme/icons/quokka.svg"
+          "path": "./icons/quokka.svg"
         },
         "wallaby": {
-          "path": "./node_modules/material-icon-theme/icons/wallaby.svg"
+          "path": "./icons/wallaby.svg"
         },
         "stencil": {
-          "path": "./node_modules/material-icon-theme/icons/stencil.svg"
+          "path": "./icons/stencil.svg"
         },
         "red": {
-          "path": "./node_modules/material-icon-theme/icons/red.svg"
+          "path": "./icons/red.svg"
         },
         "makefile": {
-          "path": "./node_modules/material-icon-theme/icons/makefile.svg"
+          "path": "./icons/makefile.svg"
         },
         "foxpro": {
-          "path": "./node_modules/material-icon-theme/icons/foxpro.svg"
+          "path": "./icons/foxpro.svg"
         },
         "i18n": {
-          "path": "./node_modules/material-icon-theme/icons/i18n.svg"
+          "path": "./icons/i18n.svg"
         },
         "webassembly": {
-          "path": "./node_modules/material-icon-theme/icons/webassembly.svg"
+          "path": "./icons/webassembly.svg"
         },
         "semantic-release": {
-          "path": "./node_modules/material-icon-theme/icons/semantic-release.svg"
+          "path": "./icons/semantic-release.svg"
         },
         "semantic-release_light": {
-          "path": "./node_modules/material-icon-theme/icons/semantic-release_light.svg"
+          "path": "./icons/semantic-release_light.svg"
         },
         "bitbucket": {
-          "path": "./node_modules/material-icon-theme/icons/bitbucket.svg"
+          "path": "./icons/bitbucket.svg"
         },
         "d": {
-          "path": "./node_modules/material-icon-theme/icons/d.svg"
+          "path": "./icons/d.svg"
         },
         "mdx": {
-          "path": "./node_modules/material-icon-theme/icons/mdx.svg"
+          "path": "./icons/mdx.svg"
         },
         "mdsvex": {
-          "path": "./node_modules/material-icon-theme/icons/mdsvex.svg"
+          "path": "./icons/mdsvex.svg"
         },
         "ballerina": {
-          "path": "./node_modules/material-icon-theme/icons/ballerina.svg"
+          "path": "./icons/ballerina.svg"
         },
         "racket": {
-          "path": "./node_modules/material-icon-theme/icons/racket.svg"
+          "path": "./icons/racket.svg"
         },
         "bazel": {
-          "path": "./node_modules/material-icon-theme/icons/bazel.svg"
+          "path": "./icons/bazel.svg"
         },
         "mint": {
-          "path": "./node_modules/material-icon-theme/icons/mint.svg"
+          "path": "./icons/mint.svg"
         },
         "velocity": {
-          "path": "./node_modules/material-icon-theme/icons/velocity.svg"
+          "path": "./icons/velocity.svg"
         },
         "azure-pipelines": {
-          "path": "./node_modules/material-icon-theme/icons/azure-pipelines.svg"
+          "path": "./icons/azure-pipelines.svg"
         },
         "azure": {
-          "path": "./node_modules/material-icon-theme/icons/azure.svg"
+          "path": "./icons/azure.svg"
         },
         "vagrant": {
-          "path": "./node_modules/material-icon-theme/icons/vagrant.svg"
+          "path": "./icons/vagrant.svg"
         },
         "prisma": {
-          "path": "./node_modules/material-icon-theme/icons/prisma.svg"
+          "path": "./icons/prisma.svg"
         },
         "abc": {
-          "path": "./node_modules/material-icon-theme/icons/abc.svg"
+          "path": "./icons/abc.svg"
         },
         "asciidoc": {
-          "path": "./node_modules/material-icon-theme/icons/asciidoc.svg"
+          "path": "./icons/asciidoc.svg"
         },
         "istanbul": {
-          "path": "./node_modules/material-icon-theme/icons/istanbul.svg"
+          "path": "./icons/istanbul.svg"
         },
         "edge": {
-          "path": "./node_modules/material-icon-theme/icons/edge.svg"
+          "path": "./icons/edge.svg"
         },
         "scheme": {
-          "path": "./node_modules/material-icon-theme/icons/scheme.svg"
+          "path": "./icons/scheme.svg"
         },
         "lisp": {
-          "path": "./node_modules/material-icon-theme/icons/lisp.svg"
+          "path": "./icons/lisp.svg"
         },
         "tailwindcss": {
-          "path": "./node_modules/material-icon-theme/icons/tailwindcss.svg"
+          "path": "./icons/tailwindcss.svg"
         },
         "3d": {
-          "path": "./node_modules/material-icon-theme/icons/3d.svg"
+          "path": "./icons/3d.svg"
         },
         "buildkite": {
-          "path": "./node_modules/material-icon-theme/icons/buildkite.svg"
+          "path": "./icons/buildkite.svg"
         },
         "netlify": {
-          "path": "./node_modules/material-icon-theme/icons/netlify.svg"
+          "path": "./icons/netlify.svg"
         },
         "netlify_light": {
-          "path": "./node_modules/material-icon-theme/icons/netlify_light.svg"
+          "path": "./icons/netlify_light.svg"
         },
         "adobe-illustrator": {
-          "path": "./node_modules/material-icon-theme/icons/adobe-illustrator.svg"
+          "path": "./icons/adobe-illustrator.svg"
         },
         "adobe-illustrator_light": {
-          "path": "./node_modules/material-icon-theme/icons/adobe-illustrator_light.svg"
+          "path": "./icons/adobe-illustrator_light.svg"
         },
         "adobe-photoshop": {
-          "path": "./node_modules/material-icon-theme/icons/adobe-photoshop.svg"
+          "path": "./icons/adobe-photoshop.svg"
         },
         "adobe-photoshop_light": {
-          "path": "./node_modules/material-icon-theme/icons/adobe-photoshop_light.svg"
+          "path": "./icons/adobe-photoshop_light.svg"
         },
         "svelte_js": {
-          "path": "./node_modules/material-icon-theme/icons/svelte_js.clone.svg"
+          "path": "./icons/svelte_js.clone.svg"
         },
         "svelte_ts": {
-          "path": "./node_modules/material-icon-theme/icons/svelte_ts.clone.svg"
+          "path": "./icons/svelte_ts.clone.svg"
         },
         "nest": {
-          "path": "./node_modules/material-icon-theme/icons/nest.svg"
+          "path": "./icons/nest.svg"
         },
         "nest-controller": {
-          "path": "./node_modules/material-icon-theme/icons/nest-controller.clone.svg"
+          "path": "./icons/nest-controller.clone.svg"
         },
         "nest-middleware": {
-          "path": "./node_modules/material-icon-theme/icons/nest-middleware.clone.svg"
+          "path": "./icons/nest-middleware.clone.svg"
         },
         "nest-module": {
-          "path": "./node_modules/material-icon-theme/icons/nest-module.clone.svg"
+          "path": "./icons/nest-module.clone.svg"
         },
         "nest-service": {
-          "path": "./node_modules/material-icon-theme/icons/nest-service.clone.svg"
+          "path": "./icons/nest-service.clone.svg"
         },
         "nest-decorator": {
-          "path": "./node_modules/material-icon-theme/icons/nest-decorator.clone.svg"
+          "path": "./icons/nest-decorator.clone.svg"
         },
         "nest-pipe": {
-          "path": "./node_modules/material-icon-theme/icons/nest-pipe.clone.svg"
+          "path": "./icons/nest-pipe.clone.svg"
         },
         "nest-filter": {
-          "path": "./node_modules/material-icon-theme/icons/nest-filter.clone.svg"
+          "path": "./icons/nest-filter.clone.svg"
         },
         "nest-gateway": {
-          "path": "./node_modules/material-icon-theme/icons/nest-gateway.clone.svg"
+          "path": "./icons/nest-gateway.clone.svg"
         },
         "nest-guard": {
-          "path": "./node_modules/material-icon-theme/icons/nest-guard.clone.svg"
+          "path": "./icons/nest-guard.clone.svg"
         },
         "nest-resolver": {
-          "path": "./node_modules/material-icon-theme/icons/nest-resolver.clone.svg"
+          "path": "./icons/nest-resolver.clone.svg"
         },
         "nest-interceptor": {
-          "path": "./node_modules/material-icon-theme/icons/nest-interceptor.clone.svg"
+          "path": "./icons/nest-interceptor.clone.svg"
         },
         "moon": {
-          "path": "./node_modules/material-icon-theme/icons/moon.svg"
+          "path": "./icons/moon.svg"
         },
         "moonscript": {
-          "path": "./node_modules/material-icon-theme/icons/moonscript.svg"
+          "path": "./icons/moonscript.svg"
         },
         "percy": {
-          "path": "./node_modules/material-icon-theme/icons/percy.svg"
+          "path": "./icons/percy.svg"
         },
         "gitpod": {
-          "path": "./node_modules/material-icon-theme/icons/gitpod.svg"
+          "path": "./icons/gitpod.svg"
         },
         "stackblitz": {
-          "path": "./node_modules/material-icon-theme/icons/stackblitz.svg"
+          "path": "./icons/stackblitz.svg"
         },
         "advpl": {
-          "path": "./node_modules/material-icon-theme/icons/advpl.svg"
+          "path": "./icons/advpl.svg"
         },
         "advpl-ptm": {
-          "path": "./node_modules/material-icon-theme/icons/advpl-ptm.clone.svg"
+          "path": "./icons/advpl-ptm.clone.svg"
         },
         "advpl-tlpp": {
-          "path": "./node_modules/material-icon-theme/icons/advpl-tlpp.clone.svg"
+          "path": "./icons/advpl-tlpp.clone.svg"
         },
         "advpl-include": {
-          "path": "./node_modules/material-icon-theme/icons/advpl-include.clone.svg"
+          "path": "./icons/advpl-include.clone.svg"
         },
         "codeowners": {
-          "path": "./node_modules/material-icon-theme/icons/codeowners.svg"
+          "path": "./icons/codeowners.svg"
         },
         "gcp": {
-          "path": "./node_modules/material-icon-theme/icons/gcp.svg"
+          "path": "./icons/gcp.svg"
         },
         "amplify": {
-          "path": "./node_modules/material-icon-theme/icons/amplify.svg"
+          "path": "./icons/amplify.svg"
         },
         "disc": {
-          "path": "./node_modules/material-icon-theme/icons/disc.svg"
+          "path": "./icons/disc.svg"
         },
         "fortran": {
-          "path": "./node_modules/material-icon-theme/icons/fortran.svg"
+          "path": "./icons/fortran.svg"
         },
         "tcl": {
-          "path": "./node_modules/material-icon-theme/icons/tcl.svg"
+          "path": "./icons/tcl.svg"
         },
         "liquid": {
-          "path": "./node_modules/material-icon-theme/icons/liquid.svg"
+          "path": "./icons/liquid.svg"
         },
         "husky": {
-          "path": "./node_modules/material-icon-theme/icons/husky.svg"
+          "path": "./icons/husky.svg"
         },
         "coconut": {
-          "path": "./node_modules/material-icon-theme/icons/coconut.svg"
+          "path": "./icons/coconut.svg"
         },
         "tilt": {
-          "path": "./node_modules/material-icon-theme/icons/tilt.svg"
+          "path": "./icons/tilt.svg"
         },
         "capacitor": {
-          "path": "./node_modules/material-icon-theme/icons/capacitor.svg"
+          "path": "./icons/capacitor.svg"
         },
         "sketch": {
-          "path": "./node_modules/material-icon-theme/icons/sketch.svg"
+          "path": "./icons/sketch.svg"
         },
         "adonis": {
-          "path": "./node_modules/material-icon-theme/icons/adonis.svg"
+          "path": "./icons/adonis.svg"
         },
         "forth": {
-          "path": "./node_modules/material-icon-theme/icons/forth.svg"
+          "path": "./icons/forth.svg"
         },
         "uml": {
-          "path": "./node_modules/material-icon-theme/icons/uml.svg"
+          "path": "./icons/uml.svg"
         },
         "uml_light": {
-          "path": "./node_modules/material-icon-theme/icons/uml_light.svg"
+          "path": "./icons/uml_light.svg"
         },
         "meson": {
-          "path": "./node_modules/material-icon-theme/icons/meson.svg"
+          "path": "./icons/meson.svg"
         },
         "commitizen": {
-          "path": "./node_modules/material-icon-theme/icons/commitizen.svg"
+          "path": "./icons/commitizen.svg"
         },
         "commitlint": {
-          "path": "./node_modules/material-icon-theme/icons/commitlint.svg"
+          "path": "./icons/commitlint.svg"
         },
         "buck": {
-          "path": "./node_modules/material-icon-theme/icons/buck.svg"
+          "path": "./icons/buck.svg"
         },
         "nx": {
-          "path": "./node_modules/material-icon-theme/icons/nx.svg"
+          "path": "./icons/nx.svg"
         },
         "opam": {
-          "path": "./node_modules/material-icon-theme/icons/opam.svg"
+          "path": "./icons/opam.svg"
         },
         "dune": {
-          "path": "./node_modules/material-icon-theme/icons/dune.svg"
+          "path": "./icons/dune.svg"
         },
         "imba": {
-          "path": "./node_modules/material-icon-theme/icons/imba.svg"
+          "path": "./icons/imba.svg"
         },
         "drawio": {
-          "path": "./node_modules/material-icon-theme/icons/drawio.svg"
+          "path": "./icons/drawio.svg"
         },
         "pascal": {
-          "path": "./node_modules/material-icon-theme/icons/pascal.svg"
+          "path": "./icons/pascal.svg"
         },
         "unity": {
-          "path": "./node_modules/material-icon-theme/icons/unity.svg"
+          "path": "./icons/unity.svg"
         },
         "roadmap": {
-          "path": "./node_modules/material-icon-theme/icons/roadmap.svg"
+          "path": "./icons/roadmap.svg"
         },
         "nuget": {
-          "path": "./node_modules/material-icon-theme/icons/nuget.svg"
+          "path": "./icons/nuget.svg"
         },
         "command": {
-          "path": "./node_modules/material-icon-theme/icons/command.svg"
+          "path": "./icons/command.svg"
         },
         "stryker": {
-          "path": "./node_modules/material-icon-theme/icons/stryker.svg"
+          "path": "./icons/stryker.svg"
         },
         "denizenscript": {
-          "path": "./node_modules/material-icon-theme/icons/denizenscript.svg"
+          "path": "./icons/denizenscript.svg"
         },
         "modernizr": {
-          "path": "./node_modules/material-icon-theme/icons/modernizr.svg"
+          "path": "./icons/modernizr.svg"
         },
         "slug": {
-          "path": "./node_modules/material-icon-theme/icons/slug.svg"
+          "path": "./icons/slug.svg"
         },
         "stitches": {
-          "path": "./node_modules/material-icon-theme/icons/stitches.svg"
+          "path": "./icons/stitches.svg"
         },
         "stitches_light": {
-          "path": "./node_modules/material-icon-theme/icons/stitches_light.svg"
+          "path": "./icons/stitches_light.svg"
         },
         "nginx": {
-          "path": "./node_modules/material-icon-theme/icons/nginx.svg"
+          "path": "./icons/nginx.svg"
         },
         "replit": {
-          "path": "./node_modules/material-icon-theme/icons/replit.svg"
+          "path": "./icons/replit.svg"
         },
         "rescript-interface": {
-          "path": "./node_modules/material-icon-theme/icons/rescript-interface.svg"
+          "path": "./icons/rescript-interface.svg"
         },
         "duc": {
-          "path": "./node_modules/material-icon-theme/icons/duc.svg"
+          "path": "./icons/duc.svg"
         },
         "snowpack": {
-          "path": "./node_modules/material-icon-theme/icons/snowpack.svg"
+          "path": "./icons/snowpack.svg"
         },
         "snowpack_light": {
-          "path": "./node_modules/material-icon-theme/icons/snowpack_light.svg"
+          "path": "./icons/snowpack_light.svg"
         },
         "brainfuck": {
-          "path": "./node_modules/material-icon-theme/icons/brainfuck.svg"
+          "path": "./icons/brainfuck.svg"
         },
         "bicep": {
-          "path": "./node_modules/material-icon-theme/icons/bicep.svg"
+          "path": "./icons/bicep.svg"
         },
         "cobol": {
-          "path": "./node_modules/material-icon-theme/icons/cobol.svg"
+          "path": "./icons/cobol.svg"
         },
         "quasar": {
-          "path": "./node_modules/material-icon-theme/icons/quasar.svg"
+          "path": "./icons/quasar.svg"
         },
         "dependabot": {
-          "path": "./node_modules/material-icon-theme/icons/dependabot.svg"
+          "path": "./icons/dependabot.svg"
         },
         "pipeline": {
-          "path": "./node_modules/material-icon-theme/icons/pipeline.svg"
+          "path": "./icons/pipeline.svg"
         },
         "vite": {
-          "path": "./node_modules/material-icon-theme/icons/vite.svg"
+          "path": "./icons/vite.svg"
         },
         "vitest": {
-          "path": "./node_modules/material-icon-theme/icons/vitest.svg"
+          "path": "./icons/vitest.svg"
         },
         "velite": {
-          "path": "./node_modules/material-icon-theme/icons/velite.svg"
+          "path": "./icons/velite.svg"
         },
         "opa": {
-          "path": "./node_modules/material-icon-theme/icons/opa.svg"
+          "path": "./icons/opa.svg"
         },
         "lerna": {
-          "path": "./node_modules/material-icon-theme/icons/lerna.svg"
+          "path": "./icons/lerna.svg"
         },
         "windicss": {
-          "path": "./node_modules/material-icon-theme/icons/windicss.svg"
+          "path": "./icons/windicss.svg"
         },
         "textlint": {
-          "path": "./node_modules/material-icon-theme/icons/textlint.svg"
+          "path": "./icons/textlint.svg"
         },
         "lilypond": {
-          "path": "./node_modules/material-icon-theme/icons/lilypond.svg"
+          "path": "./icons/lilypond.svg"
         },
         "chess_light": {
-          "path": "./node_modules/material-icon-theme/icons/chess_light.svg"
+          "path": "./icons/chess_light.svg"
         },
         "sentry": {
-          "path": "./node_modules/material-icon-theme/icons/sentry.svg"
+          "path": "./icons/sentry.svg"
         },
         "contentlayer": {
-          "path": "./node_modules/material-icon-theme/icons/contentlayer.svg"
+          "path": "./icons/contentlayer.svg"
         },
         "phpunit": {
-          "path": "./node_modules/material-icon-theme/icons/phpunit.svg"
+          "path": "./icons/phpunit.svg"
         },
         "php-cs-fixer": {
-          "path": "./node_modules/material-icon-theme/icons/php-cs-fixer.svg"
+          "path": "./icons/php-cs-fixer.svg"
         },
         "robots": {
-          "path": "./node_modules/material-icon-theme/icons/robots.svg"
+          "path": "./icons/robots.svg"
         },
         "tsconfig": {
-          "path": "./node_modules/material-icon-theme/icons/tsconfig.svg"
+          "path": "./icons/tsconfig.svg"
         },
         "tauri": {
-          "path": "./node_modules/material-icon-theme/icons/tauri.svg"
+          "path": "./icons/tauri.svg"
         },
         "jsconfig": {
-          "path": "./node_modules/material-icon-theme/icons/jsconfig.svg"
+          "path": "./icons/jsconfig.svg"
         },
         "maven": {
-          "path": "./node_modules/material-icon-theme/icons/maven.svg"
+          "path": "./icons/maven.svg"
         },
         "ada": {
-          "path": "./node_modules/material-icon-theme/icons/ada.svg"
+          "path": "./icons/ada.svg"
         },
         "serverless": {
-          "path": "./node_modules/material-icon-theme/icons/serverless.svg"
+          "path": "./icons/serverless.svg"
         },
         "supabase": {
-          "path": "./node_modules/material-icon-theme/icons/supabase.svg"
+          "path": "./icons/supabase.svg"
         },
         "ember": {
-          "path": "./node_modules/material-icon-theme/icons/ember.svg"
+          "path": "./icons/ember.svg"
         },
         "horusec": {
-          "path": "./node_modules/material-icon-theme/icons/horusec.svg"
+          "path": "./icons/horusec.svg"
         },
         "poetry": {
-          "path": "./node_modules/material-icon-theme/icons/poetry.svg"
+          "path": "./icons/poetry.svg"
         },
         "pdm": {
-          "path": "./node_modules/material-icon-theme/icons/pdm.svg"
+          "path": "./icons/pdm.svg"
         },
         "coala": {
-          "path": "./node_modules/material-icon-theme/icons/coala.svg"
+          "path": "./icons/coala.svg"
         },
         "parcel": {
-          "path": "./node_modules/material-icon-theme/icons/parcel.svg"
+          "path": "./icons/parcel.svg"
         },
         "dinophp": {
-          "path": "./node_modules/material-icon-theme/icons/dinophp.svg"
+          "path": "./icons/dinophp.svg"
         },
         "teal": {
-          "path": "./node_modules/material-icon-theme/icons/teal.svg"
+          "path": "./icons/teal.svg"
         },
         "templ": {
-          "path": "./node_modules/material-icon-theme/icons/templ.svg"
+          "path": "./icons/templ.svg"
         },
         "astyle": {
-          "path": "./node_modules/material-icon-theme/icons/astyle.svg"
+          "path": "./icons/astyle.svg"
         },
         "lighthouse": {
-          "path": "./node_modules/material-icon-theme/icons/lighthouse.svg"
+          "path": "./icons/lighthouse.svg"
         },
         "svgr": {
-          "path": "./node_modules/material-icon-theme/icons/svgr.svg"
+          "path": "./icons/svgr.svg"
         },
         "rome": {
-          "path": "./node_modules/material-icon-theme/icons/rome.svg"
+          "path": "./icons/rome.svg"
         },
         "cypress": {
-          "path": "./node_modules/material-icon-theme/icons/cypress.svg"
+          "path": "./icons/cypress.svg"
         },
         "siyuan": {
-          "path": "./node_modules/material-icon-theme/icons/siyuan.svg"
+          "path": "./icons/siyuan.svg"
         },
         "ndst": {
-          "path": "./node_modules/material-icon-theme/icons/ndst.svg"
+          "path": "./icons/ndst.svg"
         },
         "plop": {
-          "path": "./node_modules/material-icon-theme/icons/plop.svg"
+          "path": "./icons/plop.svg"
         },
         "tobi": {
-          "path": "./node_modules/material-icon-theme/icons/tobi.svg"
+          "path": "./icons/tobi.svg"
         },
         "tobimake": {
-          "path": "./node_modules/material-icon-theme/icons/tobimake.svg"
+          "path": "./icons/tobimake.svg"
         },
         "gleam": {
-          "path": "./node_modules/material-icon-theme/icons/gleam.svg"
+          "path": "./icons/gleam.svg"
         },
         "pnpm": {
-          "path": "./node_modules/material-icon-theme/icons/pnpm.svg"
+          "path": "./icons/pnpm.svg"
         },
         "pnpm_light": {
-          "path": "./node_modules/material-icon-theme/icons/pnpm_light.svg"
+          "path": "./icons/pnpm_light.svg"
         },
         "gridsome": {
-          "path": "./node_modules/material-icon-theme/icons/gridsome.svg"
+          "path": "./icons/gridsome.svg"
         },
         "steadybit": {
-          "path": "./node_modules/material-icon-theme/icons/steadybit.svg"
+          "path": "./icons/steadybit.svg"
         },
         "capnp": {
-          "path": "./node_modules/material-icon-theme/icons/capnp.svg"
+          "path": "./icons/capnp.svg"
         },
         "caddy": {
-          "path": "./node_modules/material-icon-theme/icons/caddy.svg"
+          "path": "./icons/caddy.svg"
         },
         "openapi": {
-          "path": "./node_modules/material-icon-theme/icons/openapi.svg"
+          "path": "./icons/openapi.svg"
         },
         "openapi_light": {
-          "path": "./node_modules/material-icon-theme/icons/openapi_light.svg"
+          "path": "./icons/openapi_light.svg"
         },
         "swagger": {
-          "path": "./node_modules/material-icon-theme/icons/swagger.svg"
+          "path": "./icons/swagger.svg"
         },
         "bun": {
-          "path": "./node_modules/material-icon-theme/icons/bun.svg"
+          "path": "./icons/bun.svg"
         },
         "bun_light": {
-          "path": "./node_modules/material-icon-theme/icons/bun_light.svg"
+          "path": "./icons/bun_light.svg"
         },
         "antlr": {
-          "path": "./node_modules/material-icon-theme/icons/antlr.svg"
+          "path": "./icons/antlr.svg"
         },
         "pinejs": {
-          "path": "./node_modules/material-icon-theme/icons/pinejs.svg"
+          "path": "./icons/pinejs.svg"
         },
         "nano-staged": {
-          "path": "./node_modules/material-icon-theme/icons/nano-staged.svg"
+          "path": "./icons/nano-staged.svg"
         },
         "nano-staged_light": {
-          "path": "./node_modules/material-icon-theme/icons/nano-staged_light.svg"
+          "path": "./icons/nano-staged_light.svg"
         },
         "knip": {
-          "path": "./node_modules/material-icon-theme/icons/knip.svg"
+          "path": "./icons/knip.svg"
         },
         "taskfile": {
-          "path": "./node_modules/material-icon-theme/icons/taskfile.svg"
+          "path": "./icons/taskfile.svg"
         },
         "craco": {
-          "path": "./node_modules/material-icon-theme/icons/craco.svg"
+          "path": "./icons/craco.svg"
         },
         "gamemaker": {
-          "path": "./node_modules/material-icon-theme/icons/gamemaker.svg"
+          "path": "./icons/gamemaker.svg"
         },
         "tldraw": {
-          "path": "./node_modules/material-icon-theme/icons/tldraw.svg"
+          "path": "./icons/tldraw.svg"
         },
         "tldraw_light": {
-          "path": "./node_modules/material-icon-theme/icons/tldraw_light.svg"
+          "path": "./icons/tldraw_light.svg"
         },
         "mercurial": {
-          "path": "./node_modules/material-icon-theme/icons/mercurial.svg"
+          "path": "./icons/mercurial.svg"
         },
         "deno": {
-          "path": "./node_modules/material-icon-theme/icons/deno.svg"
+          "path": "./icons/deno.svg"
         },
         "deno_light": {
-          "path": "./node_modules/material-icon-theme/icons/deno_light.svg"
+          "path": "./icons/deno_light.svg"
         },
         "plastic": {
-          "path": "./node_modules/material-icon-theme/icons/plastic.svg"
+          "path": "./icons/plastic.svg"
         },
         "typst": {
-          "path": "./node_modules/material-icon-theme/icons/typst.svg"
+          "path": "./icons/typst.svg"
         },
         "unocss": {
-          "path": "./node_modules/material-icon-theme/icons/unocss.svg"
+          "path": "./icons/unocss.svg"
         },
         "ifanr-cloud": {
-          "path": "./node_modules/material-icon-theme/icons/ifanr-cloud.svg"
+          "path": "./icons/ifanr-cloud.svg"
         },
         "qwik": {
-          "path": "./node_modules/material-icon-theme/icons/qwik.svg"
+          "path": "./icons/qwik.svg"
         },
         "mermaid": {
-          "path": "./node_modules/material-icon-theme/icons/mermaid.svg"
+          "path": "./icons/mermaid.svg"
         },
         "syncpack": {
-          "path": "./node_modules/material-icon-theme/icons/syncpack.svg"
+          "path": "./icons/syncpack.svg"
         },
         "werf": {
-          "path": "./node_modules/material-icon-theme/icons/werf.svg"
+          "path": "./icons/werf.svg"
         },
         "roblox": {
-          "path": "./node_modules/material-icon-theme/icons/roblox.svg"
+          "path": "./icons/roblox.svg"
         },
         "rojo": {
-          "path": "./node_modules/material-icon-theme/icons/rojo.svg"
+          "path": "./icons/rojo.svg"
         },
         "wally": {
-          "path": "./node_modules/material-icon-theme/icons/wally.svg"
+          "path": "./icons/wally.svg"
         },
         "rbxmk": {
-          "path": "./node_modules/material-icon-theme/icons/rbxmk.svg"
+          "path": "./icons/rbxmk.svg"
         },
         "panda": {
-          "path": "./node_modules/material-icon-theme/icons/panda.svg"
+          "path": "./icons/panda.svg"
         },
         "biome": {
-          "path": "./node_modules/material-icon-theme/icons/biome.svg"
+          "path": "./icons/biome.svg"
         },
         "esbuild": {
-          "path": "./node_modules/material-icon-theme/icons/esbuild.svg"
+          "path": "./icons/esbuild.svg"
         },
         "spwn": {
-          "path": "./node_modules/material-icon-theme/icons/spwn.svg"
+          "path": "./icons/spwn.svg"
         },
         "chrome": {
-          "path": "./node_modules/material-icon-theme/icons/chrome.svg"
+          "path": "./icons/chrome.svg"
         },
         "stan": {
-          "path": "./node_modules/material-icon-theme/icons/stan.svg"
+          "path": "./icons/stan.svg"
         },
         "abap": {
-          "path": "./node_modules/material-icon-theme/icons/abap.svg"
+          "path": "./icons/abap.svg"
         },
         "drizzle": {
-          "path": "./node_modules/material-icon-theme/icons/drizzle.svg"
+          "path": "./icons/drizzle.svg"
         },
         "lottie": {
-          "path": "./node_modules/material-icon-theme/icons/lottie.svg"
+          "path": "./icons/lottie.svg"
         },
         "puppeteer": {
-          "path": "./node_modules/material-icon-theme/icons/puppeteer.svg"
+          "path": "./icons/puppeteer.svg"
         },
         "apps-script": {
-          "path": "./node_modules/material-icon-theme/icons/apps-script.svg"
+          "path": "./icons/apps-script.svg"
         },
         "garden": {
-          "path": "./node_modules/material-icon-theme/icons/garden.svg"
+          "path": "./icons/garden.svg"
         },
         "pkl": {
-          "path": "./node_modules/material-icon-theme/icons/pkl.svg"
+          "path": "./icons/pkl.svg"
         },
         "kubernetes": {
-          "path": "./node_modules/material-icon-theme/icons/kubernetes.svg"
+          "path": "./icons/kubernetes.svg"
         },
         "phpstan": {
-          "path": "./node_modules/material-icon-theme/icons/phpstan.svg"
+          "path": "./icons/phpstan.svg"
         },
         "screwdriver": {
-          "path": "./node_modules/material-icon-theme/icons/screwdriver.svg"
+          "path": "./icons/screwdriver.svg"
         },
         "snapcraft": {
-          "path": "./node_modules/material-icon-theme/icons/snapcraft.svg"
+          "path": "./icons/snapcraft.svg"
         },
         "container": {
-          "path": "./node_modules/material-icon-theme/icons/container.clone.svg"
+          "path": "./icons/container.clone.svg"
         },
         "kcl": {
-          "path": "./node_modules/material-icon-theme/icons/kcl.svg"
+          "path": "./icons/kcl.svg"
         },
         "verified": {
-          "path": "./node_modules/material-icon-theme/icons/verified.svg"
+          "path": "./icons/verified.svg"
         },
         "bruno": {
-          "path": "./node_modules/material-icon-theme/icons/bruno.svg"
+          "path": "./icons/bruno.svg"
         },
         "cairo": {
-          "path": "./node_modules/material-icon-theme/icons/cairo.svg"
+          "path": "./icons/cairo.svg"
         },
         "grafana-alloy": {
-          "path": "./node_modules/material-icon-theme/icons/grafana-alloy.svg"
+          "path": "./icons/grafana-alloy.svg"
         },
         "clangd": {
-          "path": "./node_modules/material-icon-theme/icons/clangd.svg"
+          "path": "./icons/clangd.svg"
         },
         "freemarker": {
-          "path": "./node_modules/material-icon-theme/icons/freemarker.svg"
+          "path": "./icons/freemarker.svg"
         },
         "markdownlint": {
-          "path": "./node_modules/material-icon-theme/icons/markdownlint.svg"
+          "path": "./icons/markdownlint.svg"
         },
         "tsil": {
-          "path": "./node_modules/material-icon-theme/icons/tsil.svg"
+          "path": "./icons/tsil.svg"
         },
         "trigger": {
-          "path": "./node_modules/material-icon-theme/icons/trigger.svg"
+          "path": "./icons/trigger.svg"
         },
         "deepsource": {
-          "path": "./node_modules/material-icon-theme/icons/deepsource.svg"
+          "path": "./icons/deepsource.svg"
         },
         "tape": {
-          "path": "./node_modules/material-icon-theme/icons/tape.clone.svg"
+          "path": "./icons/tape.clone.svg"
         },
         "hurl": {
-          "path": "./node_modules/material-icon-theme/icons/hurl.svg"
+          "path": "./icons/hurl.svg"
         },
         "jsr": {
-          "path": "./node_modules/material-icon-theme/icons/jsr.svg"
+          "path": "./icons/jsr.svg"
         },
         "jsr_light": {
-          "path": "./node_modules/material-icon-theme/icons/jsr_light.svg"
+          "path": "./icons/jsr_light.svg"
         },
         "coderabbit-ai": {
-          "path": "./node_modules/material-icon-theme/icons/coderabbit-ai.svg"
+          "path": "./icons/coderabbit-ai.svg"
         },
         "gemini-ai": {
-          "path": "./node_modules/material-icon-theme/icons/gemini-ai.svg"
+          "path": "./icons/gemini-ai.svg"
         },
         "taze": {
-          "path": "./node_modules/material-icon-theme/icons/taze.svg"
+          "path": "./icons/taze.svg"
         },
         "wxt": {
-          "path": "./node_modules/material-icon-theme/icons/wxt.svg"
+          "path": "./icons/wxt.svg"
         },
         "sway": {
-          "path": "./node_modules/material-icon-theme/icons/sway.svg"
+          "path": "./icons/sway.svg"
         },
         "lefthook": {
-          "path": "./node_modules/material-icon-theme/icons/lefthook.svg"
+          "path": "./icons/lefthook.svg"
         },
         "label": {
-          "path": "./node_modules/material-icon-theme/icons/label.svg"
+          "path": "./icons/label.svg"
         },
         "zeabur": {
-          "path": "./node_modules/material-icon-theme/icons/zeabur.svg"
+          "path": "./icons/zeabur.svg"
         },
         "zeabur_light": {
-          "path": "./node_modules/material-icon-theme/icons/zeabur_light.svg"
+          "path": "./icons/zeabur_light.svg"
         },
         "copilot": {
-          "path": "./node_modules/material-icon-theme/icons/copilot.svg"
+          "path": "./icons/copilot.svg"
         },
         "copilot_light": {
-          "path": "./node_modules/material-icon-theme/icons/copilot_light.svg"
+          "path": "./icons/copilot_light.svg"
         },
         "bench-ts": {
-          "path": "./node_modules/material-icon-theme/icons/bench-ts.svg"
+          "path": "./icons/bench-ts.svg"
         },
         "bench-jsx": {
-          "path": "./node_modules/material-icon-theme/icons/bench-jsx.svg"
+          "path": "./icons/bench-jsx.svg"
         },
         "bench-js": {
-          "path": "./node_modules/material-icon-theme/icons/bench-js.svg"
+          "path": "./icons/bench-js.svg"
         },
         "pre-commit": {
-          "path": "./node_modules/material-icon-theme/icons/pre-commit.svg"
+          "path": "./icons/pre-commit.svg"
         },
         "controller": {
-          "path": "./node_modules/material-icon-theme/icons/controller.svg"
+          "path": "./icons/controller.svg"
         },
         "dependencies-update": {
-          "path": "./node_modules/material-icon-theme/icons/dependencies-update.svg"
+          "path": "./icons/dependencies-update.svg"
         },
         "histoire": {
-          "path": "./node_modules/material-icon-theme/icons/histoire.svg"
+          "path": "./icons/histoire.svg"
         },
         "installation": {
-          "path": "./node_modules/material-icon-theme/icons/installation.svg"
+          "path": "./icons/installation.svg"
         },
         "github-sponsors": {
-          "path": "./node_modules/material-icon-theme/icons/github-sponsors.svg"
+          "path": "./icons/github-sponsors.svg"
         },
         "minecraft-fabric": {
-          "path": "./node_modules/material-icon-theme/icons/minecraft-fabric.svg"
+          "path": "./icons/minecraft-fabric.svg"
         },
         "umi": {
-          "path": "./node_modules/material-icon-theme/icons/umi.svg"
+          "path": "./icons/umi.svg"
         },
         "pm2-ecosystem": {
-          "path": "./node_modules/material-icon-theme/icons/pm2-ecosystem.svg"
+          "path": "./icons/pm2-ecosystem.svg"
         },
         "hosts_light": {
-          "path": "./node_modules/material-icon-theme/icons/hosts_light.svg"
+          "path": "./icons/hosts_light.svg"
         },
         "citation": {
-          "path": "./node_modules/material-icon-theme/icons/citation.svg"
+          "path": "./icons/citation.svg"
         },
         "xmake": {
-          "path": "./node_modules/material-icon-theme/icons/xmake.svg"
+          "path": "./icons/xmake.svg"
         },
         "subtitles": {
-          "path": "./node_modules/material-icon-theme/icons/subtitles.svg"
+          "path": "./icons/subtitles.svg"
         },
         "wrangler": {
-          "path": "./node_modules/material-icon-theme/icons/wrangler.svg"
+          "path": "./icons/wrangler.svg"
         },
         "epub": {
-          "path": "./node_modules/material-icon-theme/icons/epub.svg"
+          "path": "./icons/epub.svg"
         },
         "regedit": {
-          "path": "./node_modules/material-icon-theme/icons/regedit.svg"
+          "path": "./icons/regedit.svg"
         },
         "cline": {
-          "path": "./node_modules/material-icon-theme/icons/cline.svg"
+          "path": "./icons/cline.svg"
         },
         "file": {
-          "path": "./node_modules/material-icon-theme/icons/file.svg"
+          "path": "./icons/file.svg"
         }
       },
       "directory_icons": {

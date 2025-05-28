@@ -20,7 +20,7 @@ export const getTheme = (manifest: Manifest): IconTheme => {
         {
           path: value.iconPath.replace(
             "./../icons/",
-            "./node_modules/material-icon-theme/icons/",
+            "./icons/",
           ),
         },
       ]),
