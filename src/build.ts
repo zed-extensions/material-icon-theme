@@ -29,10 +29,6 @@ if (!fs.existsSync(iconsDestDir)) {
   fs.mkdirSync(iconsDestDir, { recursive: true });
 }
 fs.readdirSync(iconsSourceDir).forEach((file) => {
-  // Skip files that start with "folder-" except for "folder-open.svg"
-  if (file.startsWith("folder-") && file !== "folder-open.svg") {
-    return;
-  }
   const sourceFile = join(iconsSourceDir, file);
   const destFile = join(iconsDestDir, file);
   fs.copyFileSync(sourceFile, destFile);

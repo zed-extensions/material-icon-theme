@@ -3,6 +3,10 @@ type DirectoryIcons = {
   expanded?: string;
 };
 
+type NamedDirectoryIcons = {
+  [key: string]: DirectoryIcons;
+};
+
 type ChevronIcons = {
   collapsed?: string;
   expanded?: string;
@@ -16,6 +20,7 @@ export type IconTheme = {
   name: string;
   appearance: "light" | "dark";
   directory_icons: DirectoryIcons;
+  named_directory_icons: NamedDirectoryIcons;
   chevron_icons?: ChevronIcons;
   file_stems: Record<string, string>;
   file_suffixes: Record<string, string>;
