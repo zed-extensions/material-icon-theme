@@ -44,8 +44,8 @@ export const getTheme = (manifest: Manifest): IconTheme => {
       Object.entries(manifest.folderNames ?? {}).map(([key, iconFileName]) => [
         key,
         {
-          collapsed: `${iconFileName}.svg`,
-          expanded: `${iconFileName}-open.svg`,
+          collapsed: `./icons/${iconFileName}.svg`,
+          expanded: `./icons/${iconFileName}-open.svg`,
         },
       ])
     );
