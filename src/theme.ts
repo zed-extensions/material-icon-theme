@@ -39,6 +39,17 @@ export const getTheme = (manifest: Manifest): IconTheme => {
     {} as { [key: string]: string },
   );
 
+  const named_directory_icons: IconTheme["named_directory_icons"] =
+    Object.fromEntries(
+      Object.entries(manifest.folderNames ?? {}).map(([key, iconFileName]) => [
+        key,
+        {
+          collapsed: `./icons/${iconFileName}.svg`,
+          expanded: `./icons/${iconFileName}-open.svg`,
+        },
+      ])
+    );
+
   return {
     name: "Material Icon Theme",
     appearance: "dark",
@@ -47,6 +58,7 @@ export const getTheme = (manifest: Manifest): IconTheme => {
       collapsed: "./icons/folder.svg",
       expanded: "./icons/folder-open.svg",
     },
+    named_directory_icons,
     file_suffixes: manifest.fileExtensions ?? {},
     file_stems: transformedFileNames,
   };
