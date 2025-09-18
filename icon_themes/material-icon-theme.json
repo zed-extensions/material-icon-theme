@@ -14468,36 +14468,36 @@
           "expanded": "./icons/folder-snapcraft-open.svg"
         },
         "dev": {
-          "collapsed": "./icons/folder-development.svg",
-          "expanded": "./icons/folder-development-open.svg"
+          "collapsed": "./icons/folder-development.clone.svg",
+          "expanded": "./icons/folder-development-open.clone.svg"
         },
         ".dev": {
-          "collapsed": "./icons/folder-development.svg",
-          "expanded": "./icons/folder-development-open.svg"
+          "collapsed": "./icons/folder-development.clone.svg",
+          "expanded": "./icons/folder-development-open.clone.svg"
         },
         "_dev": {
-          "collapsed": "./icons/folder-development.svg",
-          "expanded": "./icons/folder-development-open.svg"
+          "collapsed": "./icons/folder-development.clone.svg",
+          "expanded": "./icons/folder-development-open.clone.svg"
         },
         "__dev__": {
-          "collapsed": "./icons/folder-development.svg",
-          "expanded": "./icons/folder-development-open.svg"
+          "collapsed": "./icons/folder-development.clone.svg",
+          "expanded": "./icons/folder-development-open.clone.svg"
         },
         "development": {
-          "collapsed": "./icons/folder-development.svg",
-          "expanded": "./icons/folder-development-open.svg"
+          "collapsed": "./icons/folder-development.clone.svg",
+          "expanded": "./icons/folder-development-open.clone.svg"
         },
         ".development": {
-          "collapsed": "./icons/folder-development.svg",
-          "expanded": "./icons/folder-development-open.svg"
+          "collapsed": "./icons/folder-development.clone.svg",
+          "expanded": "./icons/folder-development-open.clone.svg"
         },
         "_development": {
-          "collapsed": "./icons/folder-development.svg",
-          "expanded": "./icons/folder-development-open.svg"
+          "collapsed": "./icons/folder-development.clone.svg",
+          "expanded": "./icons/folder-development-open.clone.svg"
         },
         "__development__": {
-          "collapsed": "./icons/folder-development.svg",
-          "expanded": "./icons/folder-development-open.svg"
+          "collapsed": "./icons/folder-development.clone.svg",
+          "expanded": "./icons/folder-development-open.clone.svg"
         },
         "flutter": {
           "collapsed": "./icons/folder-flutter.svg",

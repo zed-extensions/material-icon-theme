@@ -13,17 +13,24 @@ const keyMapping: { [key: string]: string } = {
 
 export const getTheme = (manifest: Manifest): IconTheme => {
   const transformedIconDefinitions = Object.fromEntries(
-    Object.entries(manifest.iconDefinitions ?? {})
-      .filter(([key]) => !key.startsWith("folder"))
-      .map(([key, value]) => [
-        keyMapping[key] || key, // Apply key renaming if a mapping exists
-        {
-          path: value.iconPath.replace(
-            "./../icons/",
-            "./icons/",
-          ),
-        },
-      ]),
+    Object.entries(manifest.iconDefinitions ?? {}).map(([key, value]) => [
+      keyMapping[key] || key, // Apply key renaming if a mapping exists
+      {
+        // Replace iconPath to point to the icons directory of this theme
+        path: value.iconPath.replace("./../icons/", "./icons/"),
+      },
+    ])
+  );
+
+  const fileIconDefinitions = Object.fromEntries(
+    Object.entries(transformedIconDefinitions).filter(
+      ([key]) => !key.startsWith("folder")
+    )
+  );
+  const folderIconDefinitions = Object.fromEntries(
+    Object.entries(transformedIconDefinitions).filter(([key]) =>
+      key.startsWith("folder")
+    )
   );
 
   /**
@@ -39,21 +46,26 @@ export const getTheme = (manifest: Manifest): IconTheme => {
     {} as { [key: string]: string },
   );
 
-  const named_directory_icons: IconTheme["named_directory_icons"] =
-    Object.fromEntries(
-      Object.entries(manifest.folderNames ?? {}).map(([key, iconFileName]) => [
-        key,
-        {
-          collapsed: `./icons/${iconFileName}.svg`,
-          expanded: `./icons/${iconFileName}-open.svg`,
-        },
-      ])
-    );
+  const named_directory_icons: IconTheme["named_directory_icons"] = {};
+
+  // Process folder name mappings from the manifest
+  Object.entries(manifest.folderNames ?? {}).forEach(([folderName, iconKey]) => {
+    const collapsedIcon = folderIconDefinitions[iconKey];
+    const expandedIconKey = manifest.folderNamesExpanded?.[folderName];
+    const expandedIcon = expandedIconKey ? folderIconDefinitions[expandedIconKey] : collapsedIcon;
+
+    if (collapsedIcon) {
+      named_directory_icons[folderName] = {
+        collapsed: collapsedIcon.path,
+        expanded: expandedIcon?.path || collapsedIcon.path,
+      };
+    }
+  });
 
   return {
     name: "Material Icon Theme",
     appearance: "dark",
-    file_icons: transformedIconDefinitions,
+    file_icons: fileIconDefinitions,
     directory_icons: {
       collapsed: "./icons/folder.svg",
       expanded: "./icons/folder-open.svg",
