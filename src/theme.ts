@@ -34,6 +34,15 @@ export const getTheme = (manifest: Manifest): IconTheme => {
     (acc, [key, value]) => {
       acc[key.toLowerCase()] = value;
       acc[key.toUpperCase()] = value;
+
+      const parts = key.split(".");
+      const extension = parts.pop();
+      const baseName = parts.join(".");
+      if (baseName && extension) {
+        acc[`${baseName.toLowerCase()}.${extension.toUpperCase()}`] = value;
+        acc[`${baseName.toUpperCase()}.${extension.toLowerCase()}`] = value;
+      }
+
       return acc;
     },
     {} as { [key: string]: string },
