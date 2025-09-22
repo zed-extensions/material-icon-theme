@@ -21295,6 +21295,8 @@
         "MESON.build": "meson",
         "meson_options.txt": "meson",
         "MESON_OPTIONS.TXT": "meson",
+        "meson.options": "meson",
+        "MESON.OPTIONS": "meson",
         "meson_options.TXT": "meson",
         "MESON_OPTIONS.txt": "meson",
         ".czrc": "commitizen",
