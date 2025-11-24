@@ -478,6 +478,12 @@
         "nginx": {
           "path": "./icons/nginx.svg"
         },
+        "cue": {
+          "path": "./icons/cue.svg"
+        },
+        "lean": {
+          "path": "./icons/lean.svg"
+        },
         "blink_light": {
           "path": "./icons/blink_light.svg"
         },
@@ -610,6 +616,12 @@
         "certificate": {
           "path": "./icons/certificate.svg"
         },
+        "license": {
+          "path": "./icons/license.svg"
+        },
+        "unlicense": {
+          "path": "./icons/unlicense.svg"
+        },
         "key": {
           "path": "./icons/key.svg"
         },
@@ -684,6 +696,12 @@
         },
         "xaml": {
           "path": "./icons/xaml.svg"
+        },
+        "happo": {
+          "path": "./icons/happo.svg"
+        },
+        "chromatic": {
+          "path": "./icons/chromatic.svg"
         },
         "kotlin": {
           "path": "./icons/kotlin.svg"
@@ -861,6 +879,12 @@
         },
         "webpack": {
           "path": "./icons/webpack.svg"
+        },
+        "rstack": {
+          "path": "./icons/rstack.svg"
+        },
+        "lynx": {
+          "path": "./icons/lynx.svg"
         },
         "ionic": {
           "path": "./icons/ionic.svg"
@@ -1888,8 +1912,8 @@
         "tsdoc": {
           "path": "./icons/tsdoc.svg"
         },
-        "oxlint": {
-          "path": "./icons/oxlint.svg"
+        "oxc": {
+          "path": "./icons/oxc.svg"
         },
         "vanilla-extract": {
           "path": "./icons/vanilla-extract.svg"
@@ -1917,6 +1941,30 @@
         },
         "bashly-hook": {
           "path": "./icons/bashly-hook.svg"
+        },
+        "bashly-strings": {
+          "path": "./icons/bashly-strings.clone.svg"
+        },
+        "bashly-strings_light": {
+          "path": "./icons/bashly-strings_light.clone.svg"
+        },
+        "google": {
+          "path": "./icons/google.svg"
+        },
+        "toc": {
+          "path": "./icons/toc.svg"
+        },
+        "shellcheck": {
+          "path": "./icons/shellcheck.svg"
+        },
+        "shellcheck_light": {
+          "path": "./icons/shellcheck_light.svg"
+        },
+        "warp": {
+          "path": "./icons/warp.svg"
+        },
+        "warp_light": {
+          "path": "./icons/warp_light.svg"
         },
         "file": {
           "path": "./icons/file.svg"
@@ -3748,6 +3796,22 @@
           "expanded": "./icons/folder-docs-open.svg"
         },
         "__news__": {
+          "collapsed": "./icons/folder-docs.svg",
+          "expanded": "./icons/folder-docs-open.svg"
+        },
+        "blog": {
+          "collapsed": "./icons/folder-docs.svg",
+          "expanded": "./icons/folder-docs-open.svg"
+        },
+        ".blog": {
+          "collapsed": "./icons/folder-docs.svg",
+          "expanded": "./icons/folder-docs-open.svg"
+        },
+        "_blog": {
+          "collapsed": "./icons/folder-docs.svg",
+          "expanded": "./icons/folder-docs-open.svg"
+        },
+        "__blog__": {
           "collapsed": "./icons/folder-docs.svg",
           "expanded": "./icons/folder-docs-open.svg"
         },
@@ -6870,6 +6934,86 @@
         "__ci__": {
           "collapsed": "./icons/folder-ci.svg",
           "expanded": "./icons/folder-ci-open.svg"
+        },
+        "eslint": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        ".eslint": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        "_eslint": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        "__eslint__": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        "eslint-plugin": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        ".eslint-plugin": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        "_eslint-plugin": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        "__eslint-plugin__": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        "eslint-plugins": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        ".eslint-plugins": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        "_eslint-plugins": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        "__eslint-plugins__": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        "eslint-config": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        ".eslint-config": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        "_eslint-config": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        "__eslint-config__": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        "eslint-configs": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        ".eslint-configs": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        "_eslint-configs": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
+        },
+        "__eslint-configs__": {
+          "collapsed": "./icons/folder-eslint.svg",
+          "expanded": "./icons/folder-eslint-open.svg"
         },
         "benchmark": {
           "collapsed": "./icons/folder-benchmark.svg",
@@ -12487,6 +12631,38 @@
           "collapsed": "./icons/folder-svg.svg",
           "expanded": "./icons/folder-svg-open.svg"
         },
+        "vector": {
+          "collapsed": "./icons/folder-svg.svg",
+          "expanded": "./icons/folder-svg-open.svg"
+        },
+        ".vector": {
+          "collapsed": "./icons/folder-svg.svg",
+          "expanded": "./icons/folder-svg-open.svg"
+        },
+        "_vector": {
+          "collapsed": "./icons/folder-svg.svg",
+          "expanded": "./icons/folder-svg-open.svg"
+        },
+        "__vector__": {
+          "collapsed": "./icons/folder-svg.svg",
+          "expanded": "./icons/folder-svg-open.svg"
+        },
+        "vectors": {
+          "collapsed": "./icons/folder-svg.svg",
+          "expanded": "./icons/folder-svg-open.svg"
+        },
+        ".vectors": {
+          "collapsed": "./icons/folder-svg.svg",
+          "expanded": "./icons/folder-svg-open.svg"
+        },
+        "_vectors": {
+          "collapsed": "./icons/folder-svg.svg",
+          "expanded": "./icons/folder-svg-open.svg"
+        },
+        "__vectors__": {
+          "collapsed": "./icons/folder-svg.svg",
+          "expanded": "./icons/folder-svg-open.svg"
+        },
         "nuxt": {
           "collapsed": "./icons/folder-nuxt.svg",
           "expanded": "./icons/folder-nuxt-open.svg"
@@ -13222,6 +13398,54 @@
         "__next__": {
           "collapsed": "./icons/folder-next.svg",
           "expanded": "./icons/folder-next-open.svg"
+        },
+        "dal": {
+          "collapsed": "./icons/folder-dal.svg",
+          "expanded": "./icons/folder-dal-open.svg"
+        },
+        ".dal": {
+          "collapsed": "./icons/folder-dal.svg",
+          "expanded": "./icons/folder-dal-open.svg"
+        },
+        "_dal": {
+          "collapsed": "./icons/folder-dal.svg",
+          "expanded": "./icons/folder-dal-open.svg"
+        },
+        "__dal__": {
+          "collapsed": "./icons/folder-dal.svg",
+          "expanded": "./icons/folder-dal-open.svg"
+        },
+        "data-access": {
+          "collapsed": "./icons/folder-dal.svg",
+          "expanded": "./icons/folder-dal-open.svg"
+        },
+        ".data-access": {
+          "collapsed": "./icons/folder-dal.svg",
+          "expanded": "./icons/folder-dal-open.svg"
+        },
+        "_data-access": {
+          "collapsed": "./icons/folder-dal.svg",
+          "expanded": "./icons/folder-dal-open.svg"
+        },
+        "__data-access__": {
+          "collapsed": "./icons/folder-dal.svg",
+          "expanded": "./icons/folder-dal-open.svg"
+        },
+        "data-access-layer": {
+          "collapsed": "./icons/folder-dal.svg",
+          "expanded": "./icons/folder-dal-open.svg"
+        },
+        ".data-access-layer": {
+          "collapsed": "./icons/folder-dal.svg",
+          "expanded": "./icons/folder-dal-open.svg"
+        },
+        "_data-access-layer": {
+          "collapsed": "./icons/folder-dal.svg",
+          "expanded": "./icons/folder-dal-open.svg"
+        },
+        "__data-access-layer__": {
+          "collapsed": "./icons/folder-dal.svg",
+          "expanded": "./icons/folder-dal-open.svg"
         },
         "cobol": {
           "collapsed": "./icons/folder-cobol.svg",
@@ -14627,6 +14851,70 @@
           "collapsed": "./icons/folder-favicon.svg",
           "expanded": "./icons/folder-favicon-open.svg"
         },
+        "feature": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        ".feature": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        "_feature": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        "__feature__": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        "features": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        ".features": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        "_features": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        "__features__": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        "feat": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        ".feat": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        "_feat": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        "__feat__": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        "feats": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        ".feats": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        "_feats": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
+        "__feats__": {
+          "collapsed": "./icons/folder-features.svg",
+          "expanded": "./icons/folder-features-open.svg"
+        },
         "lefthook": {
           "collapsed": "./icons/folder-lefthook.svg",
           "expanded": "./icons/folder-lefthook-open.svg"
@@ -15411,6 +15699,134 @@
           "collapsed": "./icons/folder-cursor.svg",
           "expanded": "./icons/folder-cursor-open.svg"
         },
+        "input": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        ".input": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        "_input": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        "__input__": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        "inputs": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        ".inputs": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        "_inputs": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        "__inputs__": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        "io": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        ".io": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        "_io": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        "__io__": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        "in": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        ".in": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        "_in": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        "__in__": {
+          "collapsed": "./icons/folder-input.svg",
+          "expanded": "./icons/folder-input-open.svg"
+        },
+        "simulations": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        ".simulations": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        "_simulations": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        "__simulations__": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        "simulation": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        ".simulation": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        "_simulation": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        "__simulation__": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        "sim": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        ".sim": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        "_sim": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        "__sim__": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        "sims": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        ".sims": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        "_sims": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
+        "__sims__": {
+          "collapsed": "./icons/folder-simulations.svg",
+          "expanded": "./icons/folder-simulations-open.svg"
+        },
         "metro": {
           "collapsed": "./icons/folder-metro.svg",
           "expanded": "./icons/folder-metro-open.svg"
@@ -15458,6 +15874,102 @@
         "__filters__": {
           "collapsed": "./icons/folder-filter.svg",
           "expanded": "./icons/folder-filter-open.svg"
+        },
+        "toc": {
+          "collapsed": "./icons/folder-toc.svg",
+          "expanded": "./icons/folder-toc-open.svg"
+        },
+        ".toc": {
+          "collapsed": "./icons/folder-toc.svg",
+          "expanded": "./icons/folder-toc-open.svg"
+        },
+        "_toc": {
+          "collapsed": "./icons/folder-toc.svg",
+          "expanded": "./icons/folder-toc-open.svg"
+        },
+        "__toc__": {
+          "collapsed": "./icons/folder-toc.svg",
+          "expanded": "./icons/folder-toc-open.svg"
+        },
+        "table-of-contents": {
+          "collapsed": "./icons/folder-toc.svg",
+          "expanded": "./icons/folder-toc-open.svg"
+        },
+        ".table-of-contents": {
+          "collapsed": "./icons/folder-toc.svg",
+          "expanded": "./icons/folder-toc-open.svg"
+        },
+        "_table-of-contents": {
+          "collapsed": "./icons/folder-toc.svg",
+          "expanded": "./icons/folder-toc-open.svg"
+        },
+        "__table-of-contents__": {
+          "collapsed": "./icons/folder-toc.svg",
+          "expanded": "./icons/folder-toc-open.svg"
+        },
+        "cue": {
+          "collapsed": "./icons/folder-cue.svg",
+          "expanded": "./icons/folder-cue-open.svg"
+        },
+        ".cue": {
+          "collapsed": "./icons/folder-cue.svg",
+          "expanded": "./icons/folder-cue-open.svg"
+        },
+        "_cue": {
+          "collapsed": "./icons/folder-cue.svg",
+          "expanded": "./icons/folder-cue-open.svg"
+        },
+        "__cue__": {
+          "collapsed": "./icons/folder-cue.svg",
+          "expanded": "./icons/folder-cue-open.svg"
+        },
+        "cues": {
+          "collapsed": "./icons/folder-cue.svg",
+          "expanded": "./icons/folder-cue-open.svg"
+        },
+        ".cues": {
+          "collapsed": "./icons/folder-cue.svg",
+          "expanded": "./icons/folder-cue-open.svg"
+        },
+        "_cues": {
+          "collapsed": "./icons/folder-cue.svg",
+          "expanded": "./icons/folder-cue-open.svg"
+        },
+        "__cues__": {
+          "collapsed": "./icons/folder-cue.svg",
+          "expanded": "./icons/folder-cue-open.svg"
+        },
+        "license": {
+          "collapsed": "./icons/folder-license.svg",
+          "expanded": "./icons/folder-license-open.svg"
+        },
+        ".license": {
+          "collapsed": "./icons/folder-license.svg",
+          "expanded": "./icons/folder-license-open.svg"
+        },
+        "_license": {
+          "collapsed": "./icons/folder-license.svg",
+          "expanded": "./icons/folder-license-open.svg"
+        },
+        "__license__": {
+          "collapsed": "./icons/folder-license.svg",
+          "expanded": "./icons/folder-license-open.svg"
+        },
+        "licenses": {
+          "collapsed": "./icons/folder-license.svg",
+          "expanded": "./icons/folder-license-open.svg"
+        },
+        ".licenses": {
+          "collapsed": "./icons/folder-license.svg",
+          "expanded": "./icons/folder-license-open.svg"
+        },
+        "_licenses": {
+          "collapsed": "./icons/folder-license.svg",
+          "expanded": "./icons/folder-license-open.svg"
+        },
+        "__licenses__": {
+          "collapsed": "./icons/folder-license.svg",
+          "expanded": "./icons/folder-license-open.svg"
         }
       },
       "file_suffixes": {
@@ -15607,6 +16119,8 @@
         "srf": "image",
         "srw": "image",
         "x3f": "image",
+        "ktx": "image",
+        "ktx2": "image",
         "pal": "palette",
         "gpl": "palette",
         "act": "palette",
@@ -15792,6 +16306,7 @@
         "cp": "cpp",
         "mii": "cpp",
         "ii": "cpp",
+        "cppm": "cpp",
         "hh": "hpp",
         "hpp": "hpp",
         "hxx": "hpp",
@@ -15847,6 +16362,7 @@
         "sha256": "key",
         "sha256sum": "key",
         "sha256sums": "key",
+        "secret": "key",
         "woff": "font",
         "woff2": "font",
         "ttf": "font",
@@ -15877,6 +16393,11 @@
         "fsi": "fsharp",
         "fsproj": "fsharp",
         "swift": "swift",
+        "xcplayground": "swift",
+        "swiftdeps": "swift",
+        "swiftdoc": "swift",
+        "swiftmodule": "swift",
+        "swiftsourceinfo": "swift",
         "ino": "arduino",
         "dockerignore": "docker",
         "dockerfile": "docker",
@@ -16606,7 +17127,10 @@
         "css.cjs": "vanilla-extract",
         "css.mjs": "vanilla-extract",
         "css.tsx": "vanilla-extract",
-        "css.jsx": "vanilla-extract"
+        "css.jsx": "vanilla-extract",
+        "toc": "toc",
+        "cue": "cue",
+        "lean": "lean"
       },
       "file_stems": {
         ".pug-lintrc": "pug",
@@ -16987,92 +17511,92 @@
         "GRADLEW.BAT": "gradle",
         "gradlew.BAT": "gradle",
         "GRADLEW.bat": "gradle",
-        "copying": "certificate",
-        "COPYING": "certificate",
-        "copying.md": "certificate",
-        "COPYING.MD": "certificate",
-        "copying.MD": "certificate",
-        "COPYING.md": "certificate",
-        "copying.rst": "certificate",
-        "COPYING.RST": "certificate",
-        "copying.RST": "certificate",
-        "COPYING.rst": "certificate",
-        "copying.txt": "certificate",
-        "COPYING.TXT": "certificate",
-        "copying.TXT": "certificate",
-        "COPYING.txt": "certificate",
-        "copyright": "certificate",
-        "COPYRIGHT": "certificate",
-        "copyright.md": "certificate",
-        "COPYRIGHT.MD": "certificate",
-        "copyright.MD": "certificate",
-        "COPYRIGHT.md": "certificate",
-        "copyright.rst": "certificate",
-        "COPYRIGHT.RST": "certificate",
-        "copyright.RST": "certificate",
-        "COPYRIGHT.rst": "certificate",
-        "copyright.txt": "certificate",
-        "COPYRIGHT.TXT": "certificate",
-        "copyright.TXT": "certificate",
-        "COPYRIGHT.txt": "certificate",
-        "license": "certificate",
-        "LICENSE": "certificate",
-        "license-agpl": "certificate",
-        "LICENSE-AGPL": "certificate",
-        "license-apache": "certificate",
-        "LICENSE-APACHE": "certificate",
-        "license-bsd": "certificate",
-        "LICENSE-BSD": "certificate",
-        "license-mit": "certificate",
-        "LICENSE-MIT": "certificate",
-        "license-gpl": "certificate",
-        "LICENSE-GPL": "certificate",
-        "license-lgpl": "certificate",
-        "LICENSE-LGPL": "certificate",
-        "license.md": "certificate",
-        "LICENSE.MD": "certificate",
-        "license.MD": "certificate",
-        "LICENSE.md": "certificate",
-        "license.rst": "certificate",
-        "LICENSE.RST": "certificate",
-        "license.RST": "certificate",
-        "LICENSE.rst": "certificate",
-        "license.txt": "certificate",
-        "LICENSE.TXT": "certificate",
-        "license.TXT": "certificate",
-        "LICENSE.txt": "certificate",
-        "licence": "certificate",
-        "LICENCE": "certificate",
-        "licence-agpl": "certificate",
-        "LICENCE-AGPL": "certificate",
-        "licence-apache": "certificate",
-        "LICENCE-APACHE": "certificate",
-        "licence-bsd": "certificate",
-        "LICENCE-BSD": "certificate",
-        "licence-mit": "certificate",
-        "LICENCE-MIT": "certificate",
-        "licence-gpl": "certificate",
-        "LICENCE-GPL": "certificate",
-        "licence-lgpl": "certificate",
-        "LICENCE-LGPL": "certificate",
-        "licence.md": "certificate",
-        "LICENCE.MD": "certificate",
-        "licence.MD": "certificate",
-        "LICENCE.md": "certificate",
-        "licence.rst": "certificate",
-        "LICENCE.RST": "certificate",
-        "licence.RST": "certificate",
-        "LICENCE.rst": "certificate",
-        "licence.txt": "certificate",
-        "LICENCE.TXT": "certificate",
-        "licence.TXT": "certificate",
-        "LICENCE.txt": "certificate",
-        "unlicense": "certificate",
-        "UNLICENSE": "certificate",
-        "unlicense.txt": "certificate",
-        "UNLICENSE.TXT": "certificate",
-        "unlicense.TXT": "certificate",
-        "UNLICENSE.txt": "certificate",
+        "copying": "license",
+        "COPYING": "license",
+        "copying.md": "license",
+        "COPYING.MD": "license",
+        "copying.MD": "license",
+        "COPYING.md": "license",
+        "copying.rst": "license",
+        "COPYING.RST": "license",
+        "copying.RST": "license",
+        "COPYING.rst": "license",
+        "copying.txt": "license",
+        "COPYING.TXT": "license",
+        "copying.TXT": "license",
+        "COPYING.txt": "license",
+        "copyright": "license",
+        "COPYRIGHT": "license",
+        "copyright.md": "license",
+        "COPYRIGHT.MD": "license",
+        "copyright.MD": "license",
+        "COPYRIGHT.md": "license",
+        "copyright.rst": "license",
+        "COPYRIGHT.RST": "license",
+        "copyright.RST": "license",
+        "COPYRIGHT.rst": "license",
+        "copyright.txt": "license",
+        "COPYRIGHT.TXT": "license",
+        "copyright.TXT": "license",
+        "COPYRIGHT.txt": "license",
+        "license": "license",
+        "LICENSE": "license",
+        "license-agpl": "license",
+        "LICENSE-AGPL": "license",
+        "license-apache": "license",
+        "LICENSE-APACHE": "license",
+        "license-bsd": "license",
+        "LICENSE-BSD": "license",
+        "license-mit": "license",
+        "LICENSE-MIT": "license",
+        "license-gpl": "license",
+        "LICENSE-GPL": "license",
+        "license-lgpl": "license",
+        "LICENSE-LGPL": "license",
+        "license.md": "license",
+        "LICENSE.MD": "license",
+        "license.MD": "license",
+        "LICENSE.md": "license",
+        "license.rst": "license",
+        "LICENSE.RST": "license",
+        "license.RST": "license",
+        "LICENSE.rst": "license",
+        "license.txt": "license",
+        "LICENSE.TXT": "license",
+        "license.TXT": "license",
+        "LICENSE.txt": "license",
+        "licence": "license",
+        "LICENCE": "license",
+        "licence-agpl": "license",
+        "LICENCE-AGPL": "license",
+        "licence-apache": "license",
+        "LICENCE-APACHE": "license",
+        "licence-bsd": "license",
+        "LICENCE-BSD": "license",
+        "licence-mit": "license",
+        "LICENCE-MIT": "license",
+        "licence-gpl": "license",
+        "LICENCE-GPL": "license",
+        "licence-lgpl": "license",
+        "LICENCE-LGPL": "license",
+        "licence.md": "license",
+        "LICENCE.MD": "license",
+        "licence.MD": "license",
+        "LICENCE.md": "license",
+        "licence.rst": "license",
+        "LICENCE.RST": "license",
+        "licence.RST": "license",
+        "LICENCE.rst": "license",
+        "licence.txt": "license",
+        "LICENCE.TXT": "license",
+        "licence.TXT": "license",
+        "LICENCE.txt": "license",
+        "unlicense": "unlicense",
+        "UNLICENSE": "unlicense",
+        "unlicense.txt": "unlicense",
+        "UNLICENSE.TXT": "unlicense",
+        "unlicense.TXT": "unlicense",
+        "UNLICENSE.txt": "unlicense",
         ".htpasswd": "key",
         ".HTPASSWD": "key",
         "sha256sums": "key",
@@ -17117,6 +17641,8 @@
         ".SWIFT-FORMAT": "swift",
         ".swift-version": "swift",
         ".SWIFT-VERSION": "swift",
+        ".swiftformat": "swift",
+        ".SWIFTFORMAT": "swift",
         "dockerfile": "docker",
         "DOCKERFILE": "docker",
         "dockerfile.prod": "docker",
@@ -17653,6 +18179,22 @@
         "XAMLSTYLER.JSON": "xaml",
         "xamlstyler.JSON": "xaml",
         "XAMLSTYLER.json": "xaml",
+        ".happo.js": "happo",
+        ".HAPPO.JS": "happo",
+        ".happo.JS": "happo",
+        ".HAPPO.js": "happo",
+        ".happo.mjs": "happo",
+        ".HAPPO.MJS": "happo",
+        ".happo.MJS": "happo",
+        ".HAPPO.mjs": "happo",
+        ".happo.cjs": "happo",
+        ".HAPPO.CJS": "happo",
+        ".happo.CJS": "happo",
+        ".HAPPO.cjs": "happo",
+        "chromatic.config.json": "chromatic",
+        "CHROMATIC.CONFIG.JSON": "chromatic",
+        "chromatic.config.JSON": "chromatic",
+        "CHROMATIC.CONFIG.json": "chromatic",
         ".git": "git",
         ".GIT": "git",
         ".gitignore": "git",
@@ -19043,6 +19585,138 @@
         "WEBPACK.CONFIG.COFFEE": "webpack",
         "webpack.config.COFFEE": "webpack",
         "WEBPACK.CONFIG.coffee": "webpack",
+        "rspack.config.js": "rstack",
+        "RSPACK.CONFIG.JS": "rstack",
+        "rspack.config.JS": "rstack",
+        "RSPACK.CONFIG.js": "rstack",
+        "rspack.config.mjs": "rstack",
+        "RSPACK.CONFIG.MJS": "rstack",
+        "rspack.config.MJS": "rstack",
+        "RSPACK.CONFIG.mjs": "rstack",
+        "rspack.config.cjs": "rstack",
+        "RSPACK.CONFIG.CJS": "rstack",
+        "rspack.config.CJS": "rstack",
+        "RSPACK.CONFIG.cjs": "rstack",
+        "rspack.config.ts": "rstack",
+        "RSPACK.CONFIG.TS": "rstack",
+        "rspack.config.TS": "rstack",
+        "RSPACK.CONFIG.ts": "rstack",
+        "rspack.config.mts": "rstack",
+        "RSPACK.CONFIG.MTS": "rstack",
+        "rspack.config.MTS": "rstack",
+        "RSPACK.CONFIG.mts": "rstack",
+        "rspack.config.cts": "rstack",
+        "RSPACK.CONFIG.CTS": "rstack",
+        "rspack.config.CTS": "rstack",
+        "RSPACK.CONFIG.cts": "rstack",
+        "rsbuild.config.js": "rstack",
+        "RSBUILD.CONFIG.JS": "rstack",
+        "rsbuild.config.JS": "rstack",
+        "RSBUILD.CONFIG.js": "rstack",
+        "rsbuild.config.mjs": "rstack",
+        "RSBUILD.CONFIG.MJS": "rstack",
+        "rsbuild.config.MJS": "rstack",
+        "RSBUILD.CONFIG.mjs": "rstack",
+        "rsbuild.config.cjs": "rstack",
+        "RSBUILD.CONFIG.CJS": "rstack",
+        "rsbuild.config.CJS": "rstack",
+        "RSBUILD.CONFIG.cjs": "rstack",
+        "rsbuild.config.ts": "rstack",
+        "RSBUILD.CONFIG.TS": "rstack",
+        "rsbuild.config.TS": "rstack",
+        "RSBUILD.CONFIG.ts": "rstack",
+        "rsbuild.config.mts": "rstack",
+        "RSBUILD.CONFIG.MTS": "rstack",
+        "rsbuild.config.MTS": "rstack",
+        "RSBUILD.CONFIG.mts": "rstack",
+        "rsbuild.config.cts": "rstack",
+        "RSBUILD.CONFIG.CTS": "rstack",
+        "rsbuild.config.CTS": "rstack",
+        "RSBUILD.CONFIG.cts": "rstack",
+        "rslib.config.js": "rstack",
+        "RSLIB.CONFIG.JS": "rstack",
+        "rslib.config.JS": "rstack",
+        "RSLIB.CONFIG.js": "rstack",
+        "rslib.config.mjs": "rstack",
+        "RSLIB.CONFIG.MJS": "rstack",
+        "rslib.config.MJS": "rstack",
+        "RSLIB.CONFIG.mjs": "rstack",
+        "rslib.config.cjs": "rstack",
+        "RSLIB.CONFIG.CJS": "rstack",
+        "rslib.config.CJS": "rstack",
+        "RSLIB.CONFIG.cjs": "rstack",
+        "rslib.config.ts": "rstack",
+        "RSLIB.CONFIG.TS": "rstack",
+        "rslib.config.TS": "rstack",
+        "RSLIB.CONFIG.ts": "rstack",
+        "rslib.config.mts": "rstack",
+        "RSLIB.CONFIG.MTS": "rstack",
+        "rslib.config.MTS": "rstack",
+        "RSLIB.CONFIG.mts": "rstack",
+        "rslib.config.cts": "rstack",
+        "RSLIB.CONFIG.CTS": "rstack",
+        "rslib.config.CTS": "rstack",
+        "RSLIB.CONFIG.cts": "rstack",
+        "rstest.config.js": "rstack",
+        "RSTEST.CONFIG.JS": "rstack",
+        "rstest.config.JS": "rstack",
+        "RSTEST.CONFIG.js": "rstack",
+        "rstest.config.mjs": "rstack",
+        "RSTEST.CONFIG.MJS": "rstack",
+        "rstest.config.MJS": "rstack",
+        "RSTEST.CONFIG.mjs": "rstack",
+        "rstest.config.cjs": "rstack",
+        "RSTEST.CONFIG.CJS": "rstack",
+        "rstest.config.CJS": "rstack",
+        "RSTEST.CONFIG.cjs": "rstack",
+        "rstest.config.ts": "rstack",
+        "RSTEST.CONFIG.TS": "rstack",
+        "rstest.config.TS": "rstack",
+        "RSTEST.CONFIG.ts": "rstack",
+        "rstest.config.mts": "rstack",
+        "RSTEST.CONFIG.MTS": "rstack",
+        "rstest.config.MTS": "rstack",
+        "RSTEST.CONFIG.mts": "rstack",
+        "rstest.config.cts": "rstack",
+        "RSTEST.CONFIG.CTS": "rstack",
+        "rstest.config.CTS": "rstack",
+        "RSTEST.CONFIG.cts": "rstack",
+        "rspress.config.ts": "rstack",
+        "RSPRESS.CONFIG.TS": "rstack",
+        "rspress.config.TS": "rstack",
+        "RSPRESS.CONFIG.ts": "rstack",
+        "rslint.json": "rstack",
+        "RSLINT.JSON": "rstack",
+        "rslint.JSON": "rstack",
+        "RSLINT.json": "rstack",
+        "rslint.jsonc": "rstack",
+        "RSLINT.JSONC": "rstack",
+        "rslint.JSONC": "rstack",
+        "RSLINT.jsonc": "rstack",
+        "lynx.config.js": "lynx",
+        "LYNX.CONFIG.JS": "lynx",
+        "lynx.config.JS": "lynx",
+        "LYNX.CONFIG.js": "lynx",
+        "lynx.config.mjs": "lynx",
+        "LYNX.CONFIG.MJS": "lynx",
+        "lynx.config.MJS": "lynx",
+        "LYNX.CONFIG.mjs": "lynx",
+        "lynx.config.cjs": "lynx",
+        "LYNX.CONFIG.CJS": "lynx",
+        "lynx.config.CJS": "lynx",
+        "LYNX.CONFIG.cjs": "lynx",
+        "lynx.config.ts": "lynx",
+        "LYNX.CONFIG.TS": "lynx",
+        "lynx.config.TS": "lynx",
+        "LYNX.CONFIG.ts": "lynx",
+        "lynx.config.mts": "lynx",
+        "LYNX.CONFIG.MTS": "lynx",
+        "lynx.config.MTS": "lynx",
+        "LYNX.CONFIG.mts": "lynx",
+        "lynx.config.cts": "lynx",
+        "LYNX.CONFIG.CTS": "lynx",
+        "lynx.config.CTS": "lynx",
+        "LYNX.CONFIG.cts": "lynx",
         "ionic.config.json": "ionic",
         "IONIC.CONFIG.JSON": "ionic",
         "ionic.config.JSON": "ionic",
@@ -21295,10 +21969,12 @@
         "MESON.build": "meson",
         "meson_options.txt": "meson",
         "MESON_OPTIONS.TXT": "meson",
-        "meson.options": "meson",
-        "MESON.OPTIONS": "meson",
         "meson_options.TXT": "meson",
         "MESON_OPTIONS.txt": "meson",
+        "meson.options": "meson",
+        "MESON.OPTIONS": "meson",
+        "meson.OPTIONS": "meson",
+        "MESON.options": "meson",
         ".czrc": "commitizen",
         ".CZRC": "commitizen",
         ".cz.json": "commitizen",
@@ -21773,6 +22449,54 @@
         "VITEST.CONFIG.CTS": "vitest",
         "vitest.config.CTS": "vitest",
         "VITEST.CONFIG.cts": "vitest",
+        "vitest.unit.config.js": "vitest",
+        "VITEST.UNIT.CONFIG.JS": "vitest",
+        "vitest.unit.config.JS": "vitest",
+        "VITEST.UNIT.CONFIG.js": "vitest",
+        "vitest.unit.config.mjs": "vitest",
+        "VITEST.UNIT.CONFIG.MJS": "vitest",
+        "vitest.unit.config.MJS": "vitest",
+        "VITEST.UNIT.CONFIG.mjs": "vitest",
+        "vitest.unit.config.cjs": "vitest",
+        "VITEST.UNIT.CONFIG.CJS": "vitest",
+        "vitest.unit.config.CJS": "vitest",
+        "VITEST.UNIT.CONFIG.cjs": "vitest",
+        "vitest.unit.config.ts": "vitest",
+        "VITEST.UNIT.CONFIG.TS": "vitest",
+        "vitest.unit.config.TS": "vitest",
+        "VITEST.UNIT.CONFIG.ts": "vitest",
+        "vitest.unit.config.mts": "vitest",
+        "VITEST.UNIT.CONFIG.MTS": "vitest",
+        "vitest.unit.config.MTS": "vitest",
+        "VITEST.UNIT.CONFIG.mts": "vitest",
+        "vitest.unit.config.cts": "vitest",
+        "VITEST.UNIT.CONFIG.CTS": "vitest",
+        "vitest.unit.config.CTS": "vitest",
+        "VITEST.UNIT.CONFIG.cts": "vitest",
+        "vitest.e2e.config.js": "vitest",
+        "VITEST.E2E.CONFIG.JS": "vitest",
+        "vitest.e2e.config.JS": "vitest",
+        "VITEST.E2E.CONFIG.js": "vitest",
+        "vitest.e2e.config.mjs": "vitest",
+        "VITEST.E2E.CONFIG.MJS": "vitest",
+        "vitest.e2e.config.MJS": "vitest",
+        "VITEST.E2E.CONFIG.mjs": "vitest",
+        "vitest.e2e.config.cjs": "vitest",
+        "VITEST.E2E.CONFIG.CJS": "vitest",
+        "vitest.e2e.config.CJS": "vitest",
+        "VITEST.E2E.CONFIG.cjs": "vitest",
+        "vitest.e2e.config.ts": "vitest",
+        "VITEST.E2E.CONFIG.TS": "vitest",
+        "vitest.e2e.config.TS": "vitest",
+        "VITEST.E2E.CONFIG.ts": "vitest",
+        "vitest.e2e.config.mts": "vitest",
+        "VITEST.E2E.CONFIG.MTS": "vitest",
+        "vitest.e2e.config.MTS": "vitest",
+        "VITEST.E2E.CONFIG.mts": "vitest",
+        "vitest.e2e.config.cts": "vitest",
+        "VITEST.E2E.CONFIG.CTS": "vitest",
+        "vitest.e2e.config.CTS": "vitest",
+        "VITEST.E2E.CONFIG.cts": "vitest",
         "velite.config.js": "velite",
         "VELITE.CONFIG.JS": "velite",
         "velite.config.JS": "velite",
@@ -23031,6 +23755,18 @@
         "WERF-GITERMINISM.YML": "werf",
         "werf-giterminism.YML": "werf",
         "WERF-GITERMINISM.yml": "werf",
+        "werf-includes.lock": "werf",
+        "WERF-INCLUDES.LOCK": "werf",
+        "werf-includes.LOCK": "werf",
+        "WERF-INCLUDES.lock": "werf",
+        "werf-includes.yaml": "werf",
+        "WERF-INCLUDES.YAML": "werf",
+        "werf-includes.YAML": "werf",
+        "WERF-INCLUDES.yaml": "werf",
+        "werf-includes.yml": "werf",
+        "WERF-INCLUDES.YML": "werf",
+        "werf-includes.YML": "werf",
+        "WERF-INCLUDES.yml": "werf",
         ".luaurc": "luau",
         ".LUAURC": "luau",
         "wally.toml": "wally",
@@ -23479,6 +24215,10 @@
         ".CODERABBIT.yaml": "coderabbit-ai",
         ".aiexclude": "gemini-ai",
         ".AIEXCLUDE": "gemini-ai",
+        "gemini.md": "gemini-ai",
+        "GEMINI.MD": "gemini-ai",
+        "gemini.MD": "gemini-ai",
+        "GEMINI.md": "gemini-ai",
         "taze.config.js": "taze",
         "TAZE.CONFIG.JS": "taze",
         "taze.config.JS": "taze",
@@ -23873,10 +24613,22 @@
         "TSDOC.JSON": "tsdoc",
         "tsdoc.JSON": "tsdoc",
         "TSDOC.json": "tsdoc",
-        ".oxlintrc.json": "oxlint",
-        ".OXLINTRC.JSON": "oxlint",
-        ".oxlintrc.JSON": "oxlint",
-        ".OXLINTRC.json": "oxlint",
+        ".oxlintrc.json": "oxc",
+        ".OXLINTRC.JSON": "oxc",
+        ".oxlintrc.JSON": "oxc",
+        ".OXLINTRC.json": "oxc",
+        ".oxlintrc.jsonc": "oxc",
+        ".OXLINTRC.JSONC": "oxc",
+        ".oxlintrc.JSONC": "oxc",
+        ".OXLINTRC.jsonc": "oxc",
+        ".oxfmtrc.json": "oxc",
+        ".OXFMTRC.JSON": "oxc",
+        ".oxfmtrc.JSON": "oxc",
+        ".OXFMTRC.json": "oxc",
+        ".oxfmtrc.jsonc": "oxc",
+        ".OXFMTRC.JSONC": "oxc",
+        ".oxfmtrc.JSONC": "oxc",
+        ".OXFMTRC.jsonc": "oxc",
         "claude.md": "claude",
         "CLAUDE.MD": "claude",
         "claude.MD": "claude",
@@ -23903,6 +24655,14 @@
         "METRO.CONFIG.JS": "metro",
         "metro.config.JS": "metro",
         "METRO.CONFIG.js": "metro",
+        "metro.config.cjs": "metro",
+        "METRO.CONFIG.CJS": "metro",
+        "metro.config.CJS": "metro",
+        "METRO.CONFIG.cjs": "metro",
+        "metro.config.mjs": "metro",
+        "METRO.CONFIG.MJS": "metro",
+        "metro.config.MJS": "metro",
+        "METRO.CONFIG.mjs": "metro",
         "metro.config.json": "metro",
         "METRO.CONFIG.JSON": "metro",
         "metro.config.JSON": "metro",
@@ -23922,7 +24682,31 @@
         "bashly-settings.yml": "bashly-settings",
         "BASHLY-SETTINGS.YML": "bashly-settings",
         "bashly-settings.YML": "bashly-settings",
-        "BASHLY-SETTINGS.yml": "bashly-settings"
+        "BASHLY-SETTINGS.yml": "bashly-settings",
+        "src/bashly-strings.yaml": "bashly-strings",
+        "SRC/BASHLY-STRINGS.YAML": "bashly-strings",
+        "src/bashly-strings.YAML": "bashly-strings",
+        "SRC/BASHLY-STRINGS.yaml": "bashly-strings",
+        "src/bashly-strings.yml": "bashly-strings",
+        "SRC/BASHLY-STRINGS.YML": "bashly-strings",
+        "src/bashly-strings.YML": "bashly-strings",
+        "SRC/BASHLY-STRINGS.yml": "bashly-strings",
+        "google-services.json": "google",
+        "GOOGLE-SERVICES.JSON": "google",
+        "google-services.JSON": "google",
+        "GOOGLE-SERVICES.json": "google",
+        "googleservice-info.plist": "google",
+        "GOOGLESERVICE-INFO.PLIST": "google",
+        "googleservice-info.PLIST": "google",
+        "GOOGLESERVICE-INFO.plist": "google",
+        ".shellcheckrc": "shellcheck",
+        ".SHELLCHECKRC": "shellcheck",
+        "shellcheckrc": "shellcheck",
+        "SHELLCHECKRC": "shellcheck",
+        "warp.md": "warp",
+        "WARP.MD": "warp",
+        "warp.MD": "warp",
+        "WARP.md": "warp"
       }
     }
   ]
