@@ -3,7 +3,6 @@ import type { IconTheme } from "./types/icon-theme";
 
 const keyMapping: { [key: string]: string } = {
   git: "vcs",
-  console: "terminal",
   code: "json",
   coffeescript: "coffee",
   default: "file",
