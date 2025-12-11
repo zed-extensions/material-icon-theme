@@ -289,7 +289,7 @@
         "csharp": {
           "path": "./icons/csharp.svg"
         },
-        "terminal": {
+        "console": {
           "path": "./icons/console.svg"
         },
         "c": {
