@@ -49,6 +49,12 @@ export const getTheme = (manifest: Manifest): IconTheme => {
         acc[`${baseName.toUpperCase()}.${extension.toLowerCase()}`] = value;
       }
 
+      // Add titlecase variant for file stems
+      if (!key.startsWith('.')) {
+        const titleCase = key.charAt(0).toUpperCase() + key.slice(1).toLowerCase();
+        acc[titleCase] = value;
+      }
+
       return acc;
     },
     {} as { [key: string]: string },
