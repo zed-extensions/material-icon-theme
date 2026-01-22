@@ -1,17 +1,29 @@
 import { writeFileSync } from "node:fs";
-import { generateManifest } from "material-icon-theme";
+import { generateManifest, type IconPackValue } from "material-icon-theme";
 import { join } from "node:path";
 import { getTheme } from "./theme";
 import fs from "node:fs";
 
-const manifest = generateManifest();
-const zedIconTheme = getTheme(manifest);
+// Icon packs to generate themes for
+const iconPacks: IconPackValue[] = [
+  "", // Default (no specific pack)
+  "nest", // NestJS
+  "angular", // Angular
+  "react", // React
+  "vue", // Vue
+];
+
+// Generate themes for each icon pack
+const themes = iconPacks.map((pack) => {
+  const manifest = generateManifest({ activeIconPack: pack });
+  return getTheme(manifest, pack);
+});
 
 const zedManifest = {
   $schema: "https://zed.dev/schema/icon_themes/v0.2.0.json",
   name: "Material Icon Theme",
   author: "Zed Industries",
-  themes: [zedIconTheme],
+  themes,
 };
 
 writeFileSync(
