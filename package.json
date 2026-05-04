@@ -3,7 +3,7 @@
   "version": "1.3.1",
   "description": "Material Design Icons for Zed",
   "scripts": {
-    "build": "node --import tsx --eval \"import('./src/build.ts')\"",
+    "build": "npx tsx src/build.ts",
     "sync": "npm run build && git diff --exit-code -- icon_themes/material-icon-theme.json icons"
   },
   "devDependencies": {
