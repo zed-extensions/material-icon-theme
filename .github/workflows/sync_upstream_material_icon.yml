@@ -26,19 +26,21 @@ jobs:
       run: |
         current_version=$(node -p "require('./package.json').devDependencies['material-icon-theme']")
         latest_version=$(npm view material-icon-theme version)
+        major_upgrade=$(CURRENT_VERSION="$current_version" LATEST_VERSION="$latest_version" ./node_modules/.bin/tsx -e "import { isMajorVersionUpgrade } from './src/version.ts'; console.log(isMajorVersionUpgrade(process.env.CURRENT_VERSION, process.env.LATEST_VERSION) ? 'true' : 'false')")
         echo "current=$current_version" >> "$GITHUB_OUTPUT"
         echo "latest=$latest_version" >> "$GITHUB_OUTPUT"
+        echo "major_upgrade=$major_upgrade" >> "$GITHUB_OUTPUT"
         if [ "$current_version" = "$latest_version" ]; then
           echo "up_to_date=true" >> "$GITHUB_OUTPUT"
         else
           echo "up_to_date=false" >> "$GITHUB_OUTPUT"
         fi
-    - if: steps.versions.outputs.up_to_date != 'true'
+    - if: steps.versions.outputs.up_to_date != 'true' && steps.versions.outputs.major_upgrade != 'true'
       run: npm install --save-dev --save-exact material-icon-theme@${{ steps.versions.outputs.latest }}
-    - if: steps.versions.outputs.up_to_date != 'true'
+    - if: steps.versions.outputs.up_to_date != 'true' && steps.versions.outputs.major_upgrade != 'true'
       run: npm run sync
     - id: pr-metadata
-      if: steps.versions.outputs.up_to_date != 'true'
+      if: steps.versions.outputs.up_to_date != 'true' && steps.versions.outputs.major_upgrade != 'true'
       run: |
         {
           echo "title=chore: sync material-icon-theme to v${{ steps.versions.outputs.latest }}"
@@ -55,7 +57,7 @@ jobs:
           echo "EOF"
         } >> "$GITHUB_OUTPUT"
     - id: create-pr
-      if: steps.versions.outputs.up_to_date != 'true'
+      if: steps.versions.outputs.up_to_date != 'true' && steps.versions.outputs.major_upgrade != 'true'
       uses: peter-evans/create-pull-request@v8
       with:
         add-paths: |
@@ -71,6 +73,8 @@ jobs:
         delete-branch: false
     - if: steps.versions.outputs.up_to_date == 'true'
       run: echo "material-icon-theme is already current at ${{ steps.versions.outputs.current }}"
+    - if: steps.versions.outputs.major_upgrade == 'true'
+      run: echo "Skipping automated material-icon-theme PR because ${{ steps.versions.outputs.current }} to ${{ steps.versions.outputs.latest }} is a major version upgrade"
 defaults:
   run:
     shell: bash -euxo pipefail {0}
