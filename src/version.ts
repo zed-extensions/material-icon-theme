@@ -1,4 +1,4 @@
-function parseMajorVersion(version: string): number {
+const parseMajorVersion = (version: string): number => {
   const match = version.match(/^v?(\d+)(?:\.|$)/);
 
   if (!match) {
@@ -6,11 +6,11 @@ function parseMajorVersion(version: string): number {
   }
 
   return Number.parseInt(match[1], 10);
-}
+};
 
-export function isMajorVersionUpgrade(
+export const isMajorVersionUpgrade = (
   currentVersion: string,
   targetVersion: string,
-): boolean {
+): boolean => {
   return parseMajorVersion(targetVersion) > parseMajorVersion(currentVersion);
-}
+};
