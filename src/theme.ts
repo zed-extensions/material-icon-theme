@@ -1,4 +1,5 @@
 import type { Manifest } from "material-icon-theme";
+import { languageSuffixes } from "./language-suffixes";
 import type { IconTheme } from "./types/icon-theme";
 
 const keyMapping: { [key: string]: string } = {
@@ -8,6 +9,32 @@ const keyMapping: { [key: string]: string } = {
   default: "file",
   storage: "database",
   template: "templ",
+};
+
+const getLanguageFileSuffixes = (
+  manifest: Manifest,
+  fileIconDefinitions: IconTheme["file_icons"],
+): Record<string, string> => {
+  return Object.entries(languageSuffixes).reduce(
+    (acc, [languageId, suffixes]) => {
+      const iconKey = manifest.languageIds?.[languageId];
+      if (!iconKey) {
+        return acc;
+      }
+
+      const mappedIconKey = keyMapping[iconKey] || iconKey;
+      if (!fileIconDefinitions[mappedIconKey]) {
+        return acc;
+      }
+
+      suffixes.forEach((suffix) => {
+        acc[suffix] = mappedIconKey;
+      });
+
+      return acc;
+    },
+    {} as Record<string, string>,
+  );
 };
 
 export const getTheme = (manifest: Manifest): IconTheme => {
@@ -61,6 +88,10 @@ export const getTheme = (manifest: Manifest): IconTheme => {
   );
 
   const named_directory_icons: IconTheme["named_directory_icons"] = {};
+  const languageFileSuffixes = getLanguageFileSuffixes(
+    manifest,
+    fileIconDefinitions,
+  );
 
   // Process folder name mappings from the manifest
   Object.entries(manifest.folderNames ?? {}).forEach(([folderName, iconKey]) => {
@@ -85,7 +116,10 @@ export const getTheme = (manifest: Manifest): IconTheme => {
       expanded: "./icons/folder-open.svg",
     },
     named_directory_icons,
-    file_suffixes: manifest.fileExtensions ?? {},
+    file_suffixes: {
+      ...(manifest.fileExtensions ?? {}),
+      ...languageFileSuffixes,
+    },
     file_stems: transformedFileNames,
   };
 };

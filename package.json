@@ -7,6 +7,6 @@
   },
   "devDependencies": {
     "@types/node": "^22.14.1",
-    "material-icon-theme": "^5.29.0"
+    "material-icon-theme": "^5.34.0"
   }
 }
