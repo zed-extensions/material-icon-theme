@@ -10,6 +10,9 @@
         "vcs": {
           "path": "./icons/git.svg"
         },
+        "axaml": {
+          "path": "./icons/avalonia.svg"
+        },
         "github-actions-workflow": {
           "path": "./icons/github-actions-workflow.svg"
         },
