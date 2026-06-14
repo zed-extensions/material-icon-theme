@@ -2839,6 +2839,70 @@
           "collapsed": "./icons/folder-images.svg",
           "expanded": "./icons/folder-images-open.svg"
         },
+        "thumb": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        ".thumb": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        "_thumb": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        "__thumb__": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        "thumbs": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        ".thumbs": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        "_thumbs": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        "__thumbs__": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        "thumbnail": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        ".thumbnail": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        "_thumbnail": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        "__thumbnail__": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        "thumbnails": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        ".thumbnails": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        "_thumbnails": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
+        "__thumbnails__": {
+          "collapsed": "./icons/folder-images.svg",
+          "expanded": "./icons/folder-images-open.svg"
+        },
         "pic": {
           "collapsed": "./icons/folder-images.svg",
           "expanded": "./icons/folder-images-open.svg"
