@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "types": ["node"],
+    "esModuleInterop": true,
+    "noEmit": true
+  },
+  "include": ["src/**/*.ts"]
+}
